@@ -1,0 +1,4087 @@
+Transaction ID,Product
+T0001,Bananas
+T0001,Cereal
+T0001,Potato Chips
+T0001,Salsa
+T0001,Soda
+T0001,Tea
+T0001,Whole Milk
+T0002,Bread
+T0002,Butter
+T0002,Eggs
+T0002,Garlic
+T0002,Honey
+T0003,Garlic
+T0002,Strawberry Jam
+T0002,Whole Milk
+T0003,Bread
+T0003,Butter
+T0003,Coffee
+T0003,Milk Creamer
+T0003,Soap
+T0003,Tea
+T0003,Whole Milk
+T0004,Bread
+T0004,Cheese
+T0004,Orange Juice
+T0004,Peanut Butter
+T0004,Strawberry Jam
+T0005,Bananas
+T0005,Bread
+T0005,Cereal
+T0005,Chicken Breast
+T0005,Soap
+T0005,Whole Milk
+T0006,Garlic
+T0006,Noodles
+T0006,Oats
+T0006,Potato Chips
+T0006,Salsa
+T0006,Soda
+T0006,Whole Milk
+T0007,Bottled Water
+T0007,Bread
+T0007,Butter
+T0007,Eggs
+T0007,Salt
+T0010,Salt
+T0007,Spinach
+T0007,Strawberry Jam
+T0007,Whole Milk
+T0008,Pasta
+T0008,Pasta Sauce
+T0009,Potato Chips
+T0009,Salsa
+T0009,Soda
+T0010,Apples
+T0010,Bread
+T0010,Chicken Breast
+T0010,Eggs
+T0010,Whole Milk
+T0010,Yogurt
+T0011,Biscuits
+T0011,Onions
+T0011,Tea
+T0011,Tomatoes
+T0012,Bread
+T0012,Eggs
+T0012,Whole Milk
+T0013,Bread
+T0013,Butter
+T0013,Salsa
+T0013,Soda
+T0014,Potato Chips
+T0014,Soda
+T0015,Bananas
+T0015,Butter
+T0015,Cereal
+T0015,Conditioner
+T0015,Shampoo
+T0015,Tomatoes
+T0015,Whole Milk
+T0016,Basmati Rice
+T0016,Chicken Breast
+T0016,Cucumber
+T0016,Milk Creamer
+T0016,Onions
+T0016,Pasta
+T0017,Apples
+T0017,Coffee
+T0017,Soda
+T0017,Sugar
+T0020,
+T0018,Bread
+T0018,Eggs
+T0018,Potato Chips
+T0018,Salsa
+T0018,Whole Milk
+T0019,Biscuits
+T0019,Bread
+T0019,Butter
+T0019,Eggs
+T0019,Strawberry Jam
+T0019,Whole Milk
+T0020,Bread
+T0020,Carrots
+T0020,Peanut Butter
+T0020,Spinach
+T0020,Sugar
+T0021,Bread
+T0021,Eggs
+T0021,Orange Juice
+T0021,Potato Chips
+T0021,Whole Milk
+T0022,Apples
+T0022,Basmati Rice
+T0022,Garlic
+T0022,Honey
+T0022,Onions
+T0022,Yogurt
+T0023,Basmati Rice
+T0023,Chicken Breast
+T0023,Coffee
+T0023,Garlic
+T0023,Milk Creamer
+T0023,Sugar
+T0024,Chicken Breast
+T0024,Potato Chips
+T0024,Salsa
+T0024,Soda
+T0025,Apples
+T0025,Bananas
+T0025,Bread
+T0025,Cereal
+T0025,Oats
+T0025,Potato Chips
+T0025,Salsa
+T0025,Soda
+T0026,Cereal
+T0026,Coffee
+T0026,Noodles
+T0026,Sugar
+T0027,Bananas
+T0027,Basmati Rice
+T0027,Chicken Breast
+T0027,Eggs
+T0027,Garlic
+T0027,Ice Cream
+T0027,Onions
+T0027,Potato Chips
+T0027,Soda
+T0028,Bread
+,Bread
+T0028,Butter
+T0028,Eggs
+T0028,Orange Juice
+T0028,Whole Milk
+T0029,Bananas
+T0029,Cereal
+T0029,Coffee
+T0029,Milk Creamer
+T0029,Oats
+T0029,Onions
+T0029,Sugar
+T0029,Whole Milk
+T0030,Burger Buns
+T0030,Cereal
+T0030,Ground Beef
+T0030,Ketchup
+T0030,Onions
+T0030,Orange Juice
+T0030,Spinach
+T0030,Tomatoes
+T0031,Biscuits
+T0031,Bread
+T0031,Coffee
+T0031,Eggs
+T0031,Peanut Butter
+T0031,Spinach
+T0031,Strawberry Jam
+T0031,Tea
+T0032,Biscuits
+T0032,Onions
+T0032,Parmesan Cheese
+T0032,Pasta
+T0032,Pasta Sauce
+T0032,Spinach
+T0032,Toothpaste
+T0033,Apples
+T0033,Honey
+T0033,Ketchup
+T0033,Parmesan Cheese
+T0033,Pasta
+T0033,Pasta Sauce
+T0033,Peanut Butter
+T0033,Yogurt
+T0034,Pasta
+T0034,Pasta Sauce
+T0035,Bananas
+T0035,Butter
+T0035,Ketchup
+T0035,Tomatoes
+T0036,Basmati Rice
+T0036,Cereal
+T0036,Chicken Breast
+T0036,Garlic
+T0036,Onions
+T0036,Parmesan Cheese
+T0036,Pasta
+T0036,Pasta Sauce
+T0036,Sugar
+T0036,Yogurt
+T0045,
+T0037,Bread
+T0037,Eggs
+T0037,Pasta
+T0037,Whole Milk
+T0038,Biscuits
+T0038,Tea
+T0038,Tomatoes
+T0039,Biscuits
+T0039,Olive Oil
+T0039,Onions
+T0039,Tea
+T0040,Apples
+T0040,Bananas
+T0040,Cereal
+T0040,Sugar
+T0040,Whole Milk
+T0040,Yogurt
+T0041,Butter
+T0041,Coffee
+T0041,Garlic
+T0041,Parmesan Cheese
+T0041,Pasta
+T0041,Sugar
+T0042,Basmati Rice
+T0042,Bread
+T0042,Chicken Breast
+T0042,Garlic
+T0042,Onions
+T0042,Sugar
+T0042,Whole Milk
+T0043,Bananas
+T0043,Bread
+T0043,Cereal
+T0043,Eggs
+T0043,Whole Milk
+T0044,Basmati Rice
+T0044,Carrots
+T0044,Chicken Breast
+T0044,Garlic
+T0044,Noodles
+T0044,Onions
+T0045,Apples
+T0045,Bananas
+T0045,Parmesan Cheese
+T0045,Pasta
+T0046,Bananas
+T0046,Biscuits
+T0046,Bread
+T0046,Butter
+T0046,Cereal
+T0046,Onions
+T0046,Whole Milk
+T0047,Burger Buns
+T0047,Carrots
+T0047,Ground Beef
+T0047,Ketchup
+T0047,Potato Chips
+T0047,Salsa
+T0047,Soda
+T0048,Biscuits
+T0048,Butter
+T0048,Potato Chips
+T0048,Salsa
+T0048,Soda
+T0048,Sugar
+T0048,Tea
+T0049,Bread
+T0049,Butter
+T0049,Milk Creamer
+T0049,Onions
+T0049,Pasta
+T0049,Spinach
+T0049,Strawberry Jam
+T0049,Sugar
+T0050,Basmati Rice
+T0050,Chicken Breast
+T0050,Dish Soap
+T0050,Garlic
+T0050,Onions
+T0050,Paper Towels
+T0050,Soda
+T0051,Bananas
+T0051,Bread
+T0051,Butter
+T0051,Eggs
+T0051,Toothpaste
+T0051,Whole Milk
+T0052,Bread
+T0052,Butter
+T0052,Parmesan Cheese
+T0052,Pasta
+T0052,Strawberry Jam
+T0053,Burger Buns
+T0053,Cheese
+T0053,Crackers
+T0053,Ketchup
+T0053,Orange Juice
+T0053,Salt
+T0054,Coffee
+T0054,Eggs
+T0054,Milk Creamer
+T0054,Sugar
+T0054,Whole Milk
+T0054,Yogurt
+T0055,Bread
+T0055,Butter
+T0055,Ketchup
+T0055,Soda
+T0055,Strawberry Jam
+T0055,Sugar
+T0055,Whole Milk
+T0056,Dish Soap
+T0056,Sponge
+T0057,Oats
+T0057,Onions
+T0057,Paper Towels
+T0057,Parmesan Cheese
+T0057,Pasta Sauce
+T0057,Potatoes
+T0057,Spinach
+T0057,Tomatoes
+T0058,Bread
+T0058,Butter
+T0058,Ice Cream
+T0058,Parmesan Cheese
+T0058,Pasta
+T0058,Pasta Sauce
+T0058,Soda
+T0058,Strawberry Jam
+T0059,Bread
+T0059,Butter
+T0059,Honey
+T0059,Orange Juice
+T0059,Parmesan Cheese
+T0059,Pasta
+T0059,Pasta Sauce
+T0059,Strawberry Jam
+T0060,Biscuits
+T0060,Bottled Water
+T0060,Bread
+T0060,Cucumber
+T0060,Eggs
+T0060,Tea
+T0060,Whole Milk
+T0061,Biscuits
+T0061,Bottled Water
+T0061,Burger Buns
+T0061,Ground Beef
+T0061,Ketchup
+T0061,Onions
+T0061,Spinach
+T0061,Tomatoes
+T0062,Basmati Rice
+T0062,Bread
+T0062,Butter
+T0062,Chicken Breast
+T0062,Cucumber
+T0062,Garlic
+T0062,Onions
+T0062,Strawberry Jam
+T0063,Bananas
+T0063,Butter
+T0063,Salt
+T0063,Strawberry Jam
+T0064,Bread
+T0064,Noodles
+T0064,Paper Towels
+T0064,Spinach
+T0064,Whole Milk
+T0065,Apples
+T0065,Bread
+T0065,Burger Buns
+T0065,Butter
+T0065,Ground Beef
+T0065,Potato Chips
+T0065,Strawberry Jam
+T0066,Bread
+T0066,Butter
+T0066,Coffee
+T0066,Milk Creamer
+T0066,Sugar
+T0067,Apples
+T0067,Chicken Breast
+T0067,Garlic
+T0067,Honey
+T0067,Oats
+T0067,Onions
+T0067,Soda
+T0067,Yogurt
+T0068,Bananas
+T0068,Bread
+T0068,Butter
+T0068,Cereal
+T0068,Ketchup
+T0068,Pasta
+T0068,Whole Milk
+T0069,Garlic
+T0069,Onions
+T0069,Peanut Butter
+T0069,Spinach
+T0070,Coffee
+T0070,Milk Creamer
+T0070,Olive Oil
+T0070,Onions
+T0070,Parmesan Cheese
+T0070,Pasta
+T0070,Pasta Sauce
+T0070,Sugar
+T0071,Coffee
+T0071,Milk Creamer
+T0071,Sugar
+T0072,Bread
+T0072,Butter
+T0072,Coffee
+T0072,Paper Towels
+T0072,Whole Milk
+T0073,Pasta
+T0073,Shampoo
+T0074,Bread
+T0074,Butter
+T0074,Spinach
+T0074,Strawberry Jam
+T0074,Whole Milk
+T0075,Bread
+T0075,Butter
+T0075,Peanut Butter
+T0075,Salsa
+T0075,Soda
+T0075,Strawberry Jam
+T0075,Whole Milk
+T0076,Chocolate Syrup
+T0076,Ice Cream
+T0076,Orange Juice
+T0077,Biscuits
+T0077,Cucumber
+T0077,Onions
+T0077,Spinach
+T0077,Tea
+T0077,Tomatoes
+T0078,Biscuits
+T0078,Tea
+T0079,Parmesan Cheese
+T0079,Pasta
+T0079,Pasta Sauce
+T0080,Apples
+T0080,Bread
+T0080,Carrots
+T0080,Eggs
+T0080,Sugar
+T0080,Whole Milk
+T0081,Bread
+T0081,Onions
+T0081,Paper Towels
+T0081,Soda
+T0081,Spinach
+T0081,Sponge
+T0081,Tea
+T0081,Tomatoes
+T0082,Bread
+T0082,Butter
+T0082,Spinach
+T0082,Tea
+T0082,Whole Milk
+T0083,Bananas
+T0083,Cereal
+T0083,Honey
+T0083,Whole Milk
+T0084,Basmati Rice
+T0084,Onions
+T0084,Parmesan Cheese
+T0084,Pasta
+T0084,Pasta Sauce
+T0084,Spinach
+T0084,Tomatoes
+T0084,Whole Milk
+T0085,Bread
+T0085,Butter
+T0085,Garlic
+T0085,Tea
+T0085,Whole Milk
+T0086,Bananas
+T0086,Cereal
+T0086,Ketchup
+T0086,Parmesan Cheese
+T0086,Pasta
+T0086,Pasta Sauce
+T0086,Whole Milk
+T0087,Bread
+T0087,Coffee
+T0087,Milk Creamer
+T0087,Noodles
+T0087,Parmesan Cheese
+T0087,Pasta
+T0087,Pasta Sauce
+T0087,Sugar
+T0087,Whole Milk
+T0088,Apples
+T0088,Burger Buns
+T0088,Butter
+T0088,Ground Beef
+T0088,Ketchup
+T0089,Bread
+T0089,Butter
+T0089,Whole Milk
+T0090,Bread
+T0090,Butter
+T0090,Strawberry Jam
+T0090,Whole Milk
+T0091,Cheese
+T0091,Coffee
+T0091,Crackers
+T0091,Garlic
+T0091,Milk Creamer
+T0091,Orange Juice
+T0091,Sugar
+T0091,Tomatoes
+T0092,Biscuits
+T0092,Bread
+T0092,Butter
+T0092,Cheese
+T0092,Parmesan Cheese
+T0092,Pasta Sauce
+T0092,Potatoes
+T0092,Whole Milk
+T0093,Basmati Rice
+T0093,Biscuits
+T0093,Bread
+T0093,Butter
+T0093,Strawberry Jam
+T0093,Tea
+T0094,Coffee
+T0094,Oats
+T0094,Pasta
+T0094,Sugar
+T0094,Tea
+T0095,Cereal
+T0095,Coffee
+T0095,Milk Creamer
+T0095,Sugar
+T0095,Whole Milk
+T0096,Bread
+T0096,Butter
+T0096,Salt
+T0096,Whole Milk
+T0097,Burger Buns
+T0097,Ground Beef
+T0097,Noodles
+T0097,Parmesan Cheese
+T0097,Pasta
+T0097,Pasta Sauce
+T0098,Bananas
+T0098,Bread
+T0098,Butter
+T0098,Cereal
+T0098,Onions
+T0098,Potato Chips
+T0098,Soap
+T0098,Whole Milk
+T0099,Ice Cream
+T0099,Pasta
+T0099,Pasta Sauce
+T0100,Bread
+T0100,Dish Soap
+T0100,Paper Towels
+T0100,Peanut Butter
+T0100,Sponge
+T0100,Strawberry Jam
+T0101,Basmati Rice
+T0101,Bread
+T0101,Eggs
+T0101,Soda
+T0101,Tomatoes
+T0101,Whole Milk
+T0102,Bananas
+T0102,Cereal
+T0102,Ice Cream
+T0102,Pasta
+T0102,Pasta Sauce
+T0102,Whole Milk
+T0103,Bananas
+T0103,Carrots
+T0103,Oats
+T0103,Parmesan Cheese
+T0103,Pasta
+T0103,Pasta Sauce
+T0104,Apples
+T0104,Bread
+T0104,Butter
+T0104,Honey
+T0104,Ice Cream
+T0104,Peanut Butter
+T0104,Strawberry Jam
+T0104,Yogurt
+T0105,Bread
+T0105,Butter
+T0105,Coffee
+T0105,Eggs
+T0105,Milk Creamer
+T0105,Sugar
+T0105,Whole Milk
+T0106,Biscuits
+T0106,Carrots
+T0106,Dish Soap
+T0106,Paper Towels
+T0106,Potatoes
+T0106,Sponge
+T0106,Tea
+T0107,Apples
+T0107,Bread
+T0107,Butter
+T0107,Parmesan Cheese
+T0107,Pasta Sauce
+T0107,Soda
+T0107,Strawberry Jam
+T0108,Conditioner
+T0108,Shampoo
+T0109,Biscuits
+T0109,Bread
+T0109,Butter
+T0109,Onions
+T0109,Spinach
+T0109,Strawberry Jam
+T0109,Tomatoes
+T0110,Bananas
+T0110,Bread
+T0110,Butter
+T0110,Cereal
+T0110,Whole Milk
+T0111,Biscuits
+T0111,Bread
+T0111,Butter
+T0111,Cheese
+T0111,Potato Chips
+T0111,Tea
+T0111,Whole Milk
+T0112,Coffee
+T0112,Eggs
+T0112,Milk Creamer
+T0112,Sugar
+T0112,Whole Milk
+T0113,Biscuits
+T0113,Conditioner
+T0113,Ketchup
+T0113,Shampoo
+T0113,Tea
+T0114,Apples
+T0114,Bread
+T0114,Garlic
+T0114,Honey
+T0114,Strawberry Jam
+T0114,Yogurt
+T0115,Coffee
+T0115,Milk Creamer
+T0115,Potato Chips
+T0115,Salsa
+T0115,Soda
+T0115,Sugar
+T0116,Coffee
+T0116,Onions
+T0116,Spinach
+T0116,Sugar
+T0116,Tomatoes
+T0117,Bread
+T0117,Butter
+T0117,Cheese
+T0117,Eggs
+T0117,Ice Cream
+T0117,Whole Milk
+T0118,Conditioner
+T0118,Ketchup
+T0118,Shampoo
+T0119,Cheese
+T0120,Bread
+T0120,Ice Cream
+T0120,Whole Milk
+T0121,Biscuits
+T0121,Potato Chips
+T0121,Salsa
+T0121,Soda
+T0121,Tea
+T0122,Biscuits
+T0122,Cereal
+T0123,Cheese
+T0123,Chicken Breast
+T0123,Coffee
+T0123,Milk Creamer
+T0123,Sugar
+T0124,Biscuits
+T0124,Cheese
+T0124,Conditioner
+T0124,Shampoo
+T0125,Bread
+T0125,Butter
+T0125,Eggs
+T0125,Ketchup
+T0125,Peanut Butter
+T0125,Potato Chips
+T0125,Strawberry Jam
+T0125,Whole Milk
+T0126,Biscuits
+T0126,Bread
+T0126,Butter
+T0126,Carrots
+T0126,Garlic
+T0126,Orange Juice
+T0126,Strawberry Jam
+T0127,Apples
+T0127,Basmati Rice
+T0127,Biscuits
+T0127,Cucumber
+T0127,Tea
+T0127,Yogurt
+T0128,Bananas
+T0128,Chicken Breast
+T0128,Salsa
+T0128,Soda
+T0129,Biscuits
+T0129,Bread
+T0129,Butter
+T0129,Carrots
+T0129,Soap
+T0129,Whole Milk
+T0130,Onions
+T0130,Potatoes
+T0130,Spinach
+T0130,Tomatoes
+T0131,Biscuits
+T0131,Bread
+T0131,Eggs
+T0131,Peanut Butter
+T0131,Strawberry Jam
+T0131,Tea
+T0132,Apples
+T0132,Basmati Rice
+T0132,Garlic
+T0132,Honey
+T0132,Onions
+T0132,Sugar
+T0132,Yogurt
+T0133,Cereal
+T0133,Parmesan Cheese
+T0133,Pasta
+T0133,Pasta Sauce
+T0133,Potato Chips
+T0133,Salsa
+T0133,Soda
+T0133,Tomatoes
+T0133,Whole Milk
+T0134,Basmati Rice
+T0134,Chicken Breast
+T0134,Garlic
+T0134,Onions
+T0134,Potato Chips
+T0134,Salsa
+T0135,Coffee
+T0135,Milk Creamer
+T0135,Sugar
+T0136,Cereal
+T0136,Whole Milk
+T0137,Bread
+T0137,Strawberry Jam
+T0138,Basmati Rice
+T0138,Bread
+T0138,Butter
+T0138,Potato Chips
+T0138,Potatoes
+T0138,Salsa
+T0138,Soda
+T0138,Whole Milk
+T0139,Bread
+T0139,Butter
+T0139,Eggs
+T0139,Onions
+T0139,Whole Milk
+T0140,Biscuits
+T0140,Bread
+T0140,Butter
+T0140,Potatoes
+T0140,Spinach
+T0140,Strawberry Jam
+T0140,Tea
+T0141,Apples
+T0141,Bananas
+T0141,Bread
+T0141,Cereal
+T0141,Eggs
+T0141,Whole Milk
+T0142,Apples
+T0142,Bananas
+T0142,Basmati Rice
+T0142,Cereal
+T0142,Chicken Breast
+T0142,Garlic
+T0143,Conditioner
+T0143,Onions
+T0143,Shampoo
+T0143,Spinach
+T0143,Tomatoes
+T0144,Basmati Rice
+T0144,Chicken Breast
+T0144,Eggs
+T0144,Garlic
+T0144,Onions
+T0144,Peanut Butter
+T0144,Spinach
+T0144,Tomatoes
+T0144,Yogurt
+T0145,Bread
+T0145,Butter
+T0145,Crackers
+T0145,Orange Juice
+T0145,Peanut Butter
+T0145,Spinach
+T0145,Whole Milk
+T0146,Dish Soap
+T0146,Sponge
+T0146,Whole Milk
+T0147,Biscuits
+T0147,Tea
+T0148,Bananas
+T0148,Carrots
+T0148,Cereal
+T0148,Parmesan Cheese
+T0148,Pasta
+T0148,Pasta Sauce
+T0148,Toothpaste
+T0149,Biscuits
+T0149,Potatoes
+T0149,Salt
+T0149,Tea
+T0150,Biscuits
+T0150,Eggs
+T0150,Tea
+T0151,Carrots
+T0151,Eggs
+T0151,Onions
+T0151,Spinach
+T0151,Tomatoes
+T0152,Bananas
+T0152,Coffee
+T0152,Milk Creamer
+T0153,Bread
+T0153,Butter
+T0153,Cheese
+T0153,Crackers
+T0153,Orange Juice
+T0153,Whole Milk
+T0154,Butter
+T0154,Dish Soap
+T0155,Shampoo
+T0156,Carrots
+T0156,Cheese
+T0156,Conditioner
+T0156,Crackers
+T0156,Orange Juice
+T0156,Shampoo
+T0156,Spinach
+T0157,Coffee
+T0157,Ketchup
+T0157,Milk Creamer
+T0157,Parmesan Cheese
+T0157,Pasta
+T0157,Pasta Sauce
+T0157,Sugar
+T0157,Yogurt
+T0158,Apples
+T0158,Coffee
+T0158,Honey
+T0158,Onions
+T0158,Tea
+T0158,Yogurt
+T0159,Apples
+T0159,Butter
+T0159,Honey
+T0159,Ice Cream
+T0159,Whole Milk
+T0159,Yogurt
+T0160,Bread
+T0160,Butter
+T0160,Ketchup
+T0161,Butter
+T0161,Dish Soap
+T0161,Paper Towels
+T0161,Sponge
+T0161,Whole Milk
+T0162,Burger Buns
+T0162,Butter
+T0162,Ground Beef
+T0163,Basmati Rice
+T0163,Chicken Breast
+T0163,Onions
+T0163,Salt
+T0163,Soap
+T0163,Tea
+T0164,Bread
+T0164,Butter
+T0164,Soda
+T0164,Strawberry Jam
+T0165,Bread
+T0165,Butter
+T0165,Strawberry Jam
+T0165,Toothpaste
+T0165,Whole Milk
+T0166,Bread
+T0166,Peanut Butter
+T0166,Potato Chips
+T0166,Salsa
+T0166,Soda
+T0166,Strawberry Jam
+T0167,Burger Buns
+T0167,Coffee
+T0167,Ground Beef
+T0167,Ketchup
+T0167,Milk Creamer
+T0167,Sugar
+T0167,Whole Milk
+T0168,Basmati Rice
+T0168,Bread
+T0168,Eggs
+T0168,Ice Cream
+T0168,Parmesan Cheese
+T0168,Pasta
+T0168,Pasta Sauce
+T0168,Whole Milk
+T0169,Apples
+T0169,Bananas
+T0169,Bottled Water
+T0169,Bread
+T0169,Whole Milk
+T0170,Apples
+T0170,Bread
+T0170,Honey
+T0170,Peanut Butter
+T0170,Soda
+T0170,Strawberry Jam
+T0170,Whole Milk
+T0170,Yogurt
+T0171,Bananas
+T0171,Cereal
+T0171,Potato Chips
+T0171,Salsa
+T0171,Soda
+T0172,Bread
+T0172,Butter
+T0172,Strawberry Jam
+T0172,Sugar
+T0173,Biscuits
+T0173,Potato Chips
+T0173,Tea
+T0174,Bread
+T0174,Butter
+T0174,Ice Cream
+T0174,Milk Creamer
+T0175,Bread
+T0175,Butter
+T0175,Parmesan Cheese
+T0175,Pasta
+T0175,Soap
+T0175,Whole Milk
+T0176,Burger Buns
+T0176,Ground Beef
+T0176,Ketchup
+T0176,Noodles
+T0176,Potatoes
+T0177,Ice Cream
+T0177,Potato Chips
+T0177,Salsa
+T0177,Soda
+T0178,Conditioner
+T0178,Olive Oil
+T0178,Shampoo
+T0179,Bread
+T0179,Peanut Butter
+T0179,Strawberry Jam
+T0180,Bread
+T0180,Butter
+T0180,Eggs
+T0180,Oats
+T0180,Peanut Butter
+T0180,Whole Milk
+T0181,Basmati Rice
+T0181,Bread
+T0181,Butter
+T0181,Paper Towels
+T0181,Peanut Butter
+T0181,Strawberry Jam
+T0181,Whole Milk
+T0182,Bread
+T0182,Coffee
+T0182,Peanut Butter
+T0182,Spinach
+T0182,Strawberry Jam
+T0183,Basmati Rice
+T0183,Chicken Breast
+T0183,Garlic
+T0183,Honey
+T0183,Onions
+T0183,Yogurt
+T0184,Bread
+T0184,Cheese
+T0184,Chicken Breast
+T0184,Coffee
+T0184,Eggs
+T0184,Milk Creamer
+T0184,Whole Milk
+T0185,Bananas
+T0185,Cereal
+T0185,Onions
+T0185,Spinach
+T0185,Tomatoes
+T0185,Whole Milk
+T0186,Biscuits
+T0186,Onions
+T0186,Spinach
+T0186,Tea
+T0186,Tomatoes
+T0187,Bread
+T0187,Conditioner
+T0187,Garlic
+T0187,Orange Juice
+T0187,Shampoo
+T0188,Cheese
+T0188,Crackers
+T0188,Orange Juice
+T0189,Biscuits
+T0189,Butter
+T0189,Noodles
+T0189,Tea
+T0189,Whole Milk
+T0190,Bread
+T0190,Butter
+T0190,Cheese
+T0190,Coffee
+T0190,Ketchup
+T0190,Milk Creamer
+T0190,Strawberry Jam
+T0190,Sugar
+T0191,Crackers
+T0192,Basmati Rice
+T0192,Chicken Breast
+T0192,Chocolate Syrup
+T0192,Garlic
+T0192,Ice Cream
+T0192,Onions
+T0193,Bread
+T0193,Eggs
+T0193,Onions
+T0193,Spinach
+T0193,Whole Milk
+T0194,Bread
+T0194,Butter
+T0194,Strawberry Jam
+T0195,Bread
+T0195,Butter
+T0195,Coffee
+T0195,Salt
+T0196,Apples
+T0196,Honey
+T0196,Strawberry Jam
+T0196,Yogurt
+T0197,Chocolate Syrup
+T0197,Eggs
+T0197,Honey
+T0197,Ice Cream
+T0198,Bananas
+T0198,Cereal
+T0198,Olive Oil
+T0198,Salsa
+T0198,Soap
+T0198,Soda
+T0198,Whole Milk
+T0199,Bananas
+T0199,Cereal
+T0199,Peanut Butter
+T0199,Spinach
+T0199,Strawberry Jam
+T0200,Potato Chips
+T0200,Soda
+T0200,Whole Milk
+T0201,Bread
+T0201,Butter
+T0201,Eggs
+T0201,Whole Milk
+T0202,Chicken Breast
+T0202,Conditioner
+T0202,Honey
+T0202,Onions
+T0202,Soda
+T0202,Tomatoes
+T0203,Coffee
+T0203,Dish Soap
+T0203,Eggs
+T0203,Noodles
+T0203,Paper Towels
+T0204,Honey
+T0204,Potato Chips
+T0204,Salsa
+T0204,Soda
+T0205,Olive Oil
+T0205,Onions
+T0205,Spinach
+T0206,Burger Buns
+T0206,Cereal
+T0206,Ground Beef
+T0206,Soda
+T0206,Tea
+T0207,Honey
+T0207,Paper Towels
+T0207,Parmesan Cheese
+T0207,Pasta
+T0207,Pasta Sauce
+T0207,Sponge
+T0208,Apples
+T0208,Bottled Water
+T0208,Bread
+T0208,Butter
+T0208,Chicken Breast
+T0208,Honey
+T0208,Yogurt
+T0209,Butter
+T0209,Olive Oil
+T0209,Salt
+T0209,Tea
+T0210,Apples
+T0210,Bread
+T0210,Butter
+T0210,Honey
+T0210,Ketchup
+T0210,Olive Oil
+T0210,Yogurt
+T0211,Basmati Rice
+T0211,Burger Buns
+T0211,Ground Beef
+T0211,Ketchup
+T0211,Onions
+T0211,Orange Juice
+T0212,Bread
+T0212,Butter
+T0212,Onions
+T0212,Spinach
+T0212,Tomatoes
+T0213,Basmati Rice
+T0213,Bread
+T0213,Eggs
+T0213,Garlic
+T0213,Oats
+T0213,Onions
+T0213,Whole Milk
+T0214,Bananas
+T0214,Basmati Rice
+T0214,Bread
+T0214,Butter
+T0214,Olive Oil
+T0214,Salt
+T0214,Strawberry Jam
+T0214,Whole Milk
+T0215,Chicken Breast
+T0215,Olive Oil
+T0215,Orange Juice
+T0215,Potato Chips
+T0215,Soda
+T0216,Bananas
+T0216,Basmati Rice
+T0216,Bottled Water
+T0216,Cereal
+T0216,Garlic
+T0216,Ice Cream
+T0216,Olive Oil
+T0216,Onions
+T0216,Whole Milk
+T0217,Bread
+T0217,Eggs
+T0217,Peanut Butter
+T0217,Whole Milk
+T0218,Chocolate Syrup
+T0218,Eggs
+T0218,Garlic
+T0218,Ice Cream
+T0219,Bread
+T0219,Butter
+T0219,Coffee
+T0219,Milk Creamer
+T0219,Potatoes
+T0219,Strawberry Jam
+T0219,Sugar
+T0220,Bread
+T0220,Butter
+T0220,Ketchup
+T0220,Potato Chips
+T0220,Salsa
+T0220,Soda
+T0220,Spinach
+T0220,Whole Milk
+T0221,Bananas
+T0221,Bread
+T0221,Butter
+T0221,Cereal
+T0221,Strawberry Jam
+T0221,Whole Milk
+T0222,Bread
+T0222,Butter
+T0222,Pasta
+T0222,Strawberry Jam
+T0223,Bananas
+T0223,Cereal
+T0223,Soap
+T0223,Strawberry Jam
+T0223,Whole Milk
+T0224,Basmati Rice
+T0224,Carrots
+T0224,Chicken Breast
+T0224,Dish Soap
+T0224,Garlic
+T0224,Noodles
+T0224,Onions
+T0224,Paper Towels
+T0224,Sponge
+T0225,Bananas
+T0225,Cereal
+T0225,Onions
+T0225,Spinach
+T0225,Tomatoes
+T0225,Whole Milk
+T0226,Bread
+T0226,Potato Chips
+T0226,Whole Milk
+T0227,Bread
+T0227,Butter
+T0227,Conditioner
+T0227,Ketchup
+T0227,Shampoo
+T0227,Tomatoes
+T0227,Yogurt
+T0228,Bananas
+T0228,Biscuits
+T0228,Cucumber
+T0228,Ketchup
+T0228,Milk Creamer
+T0228,Sugar
+T0229,Apples
+T0229,Honey
+T0229,Parmesan Cheese
+T0229,Pasta
+T0229,Pasta Sauce
+T0229,Salt
+T0229,Soap
+T0229,Tomatoes
+T0230,Bread
+T0230,Butter
+T0230,Cereal
+T0230,Eggs
+T0230,Whole Milk
+T0231,Bananas
+T0231,Cereal
+T0231,Chicken Breast
+T0231,Cucumber
+T0231,Parmesan Cheese
+T0231,Pasta
+T0231,Pasta Sauce
+T0231,Whole Milk
+T0232,Biscuits
+T0232,Bread
+T0232,Butter
+T0232,Tea
+T0232,Whole Milk
+T0233,Bread
+T0233,Butter
+T0233,Coffee
+T0233,Strawberry Jam
+T0233,Whole Milk
+T0234,Bread
+T0234,Butter
+T0234,Eggs
+T0234,Strawberry Jam
+T0234,Tomatoes
+T0234,Whole Milk
+T0235,Bottled Water
+T0235,Eggs
+T0235,Parmesan Cheese
+T0235,Pasta
+T0235,Pasta Sauce
+T0235,Yogurt
+T0236,Apples
+T0236,Bread
+T0236,Butter
+T0236,Honey
+T0236,Whole Milk
+T0237,Tea
+T0238,Biscuits
+T0238,Cucumber
+T0238,Parmesan Cheese
+T0238,Pasta
+T0238,Pasta Sauce
+T0239,Butter
+T0239,Garlic
+T0239,Honey
+T0239,Parmesan Cheese
+T0239,Pasta Sauce
+T0239,Whole Milk
+T0240,Basmati Rice
+T0240,Bread
+T0240,Chicken Breast
+T0240,Eggs
+T0240,Garlic
+T0240,Onions
+T0240,Whole Milk
+T0241,Chocolate Syrup
+T0241,Ice Cream
+T0241,Soap
+T0242,Basmati Rice
+T0242,Bread
+T0242,Butter
+T0242,Eggs
+T0242,Honey
+T0242,Ice Cream
+T0242,Whole Milk
+T0243,Bread
+T0243,Butter
+T0243,Garlic
+T0243,Orange Juice
+T0243,Potato Chips
+T0243,Salsa
+T0243,Soda
+T0243,Whole Milk
+T0244,Bread
+T0244,Butter
+T0244,Ice Cream
+T0244,Parmesan Cheese
+T0244,Whole Milk
+T0245,Bread
+T0245,Chicken Breast
+T0245,Coffee
+T0245,Eggs
+T0245,Soap
+T0245,Sugar
+T0245,Whole Milk
+T0246,Basmati Rice
+T0246,Bread
+T0246,Butter
+T0246,Garlic
+T0246,Onions
+T0246,Strawberry Jam
+T0247,Basmati Rice
+T0247,Bread
+T0247,Butter
+T0247,Chicken Breast
+T0247,Garlic
+T0247,Onions
+T0247,Whole Milk
+T0248,Bananas
+T0248,Cereal
+T0248,Coffee
+T0248,Ice Cream
+T0248,Milk Creamer
+T0248,Toothpaste
+T0248,Whole Milk
+T0249,Biscuits
+T0249,Bread
+T0249,Butter
+T0249,Eggs
+T0249,Garlic
+T0249,Whole Milk
+T0250,Bread
+T0250,Butter
+T0250,Eggs
+T0250,Whole Milk
+T0251,Apples
+T0251,Honey
+T0251,Yogurt
+T0252,Bread
+T0252,Butter
+T0252,Cheese
+T0252,Parmesan Cheese
+T0252,Pasta
+T0252,Pasta Sauce
+T0252,Toothpaste
+T0252,Whole Milk
+T0253,Bread
+T0253,Dish Soap
+T0253,Eggs
+T0253,Sponge
+T0253,Sugar
+T0253,Tea
+T0253,Toothpaste
+T0253,Whole Milk
+T0254,Honey
+T0254,Yogurt
+T0255,Biscuits
+T0255,Cereal
+T0255,Onions
+T0255,Parmesan Cheese
+T0255,Pasta
+T0255,Pasta Sauce
+T0255,Soap
+T0255,Spinach
+T0255,Tomatoes
+T0256,Burger Buns
+T0256,Carrots
+T0256,Ground Beef
+T0256,Ketchup
+T0257,Carrots
+T0257,Chicken Breast
+T0257,Ketchup
+T0257,Oats
+T0258,Bananas
+T0258,Cereal
+T0258,Chicken Breast
+T0258,Eggs
+T0258,Salsa
+T0258,Soda
+T0258,Whole Milk
+T0259,Bananas
+T0259,Bread
+T0259,Butter
+T0259,Cereal
+T0259,Ice Cream
+T0259,Spinach
+T0259,Toothpaste
+T0259,Whole Milk
+T0260,Basmati Rice
+T0260,Chicken Breast
+T0260,Garlic
+T0260,Onions
+T0260,Pasta
+T0261,Cheese
+T0261,Crackers
+T0261,Cucumber
+T0261,Orange Juice
+T0261,Potato Chips
+T0261,Toothpaste
+T0262,Bread
+T0262,Eggs
+T0262,Soda
+T0262,Whole Milk
+T0263,Biscuits
+T0263,Bread
+T0263,Butter
+T0263,Tea
+T0263,Whole Milk
+T0264,Bread
+T0264,Butter
+T0264,Strawberry Jam
+T0264,Whole Milk
+T0265,Salsa
+T0265,Soda
+T0266,Conditioner
+T0266,Potato Chips
+T0267,Bread
+T0267,Milk Creamer
+T0267,Peanut Butter
+T0267,Strawberry Jam
+T0268,Apples
+T0268,Bananas
+T0268,Cereal
+T0268,Honey
+T0268,Whole Milk
+T0268,Yogurt
+T0269,Bread
+T0269,Cucumber
+T0269,Eggs
+T0269,Garlic
+T0269,Orange Juice
+T0269,Whole Milk
+T0270,Dish Soap
+T0270,Sponge
+T0271,Bread
+T0271,Coffee
+T0271,Milk Creamer
+T0271,Sugar
+T0272,Butter
+T0272,Potato Chips
+T0272,Salsa
+T0272,Soda
+T0272,Whole Milk
+T0273,Bottled Water
+T0273,Cereal
+T0273,Garlic
+T0274,Butter
+T0274,Cheese
+T0274,Crackers
+T0274,Onions
+T0274,Orange Juice
+T0274,Soap
+T0275,Parmesan Cheese
+T0275,Pasta
+T0275,Pasta Sauce
+T0276,Biscuits
+T0276,Bread
+T0276,Butter
+T0276,Strawberry Jam
+T0276,Tea
+T0277,Conditioner
+T0277,Potatoes
+T0277,Salsa
+T0277,Salt
+T0277,Shampoo
+T0277,Soda
+T0278,Bread
+T0278,Peanut Butter
+T0278,Strawberry Jam
+T0279,Coffee
+T0279,Cucumber
+T0279,Milk Creamer
+T0279,Orange Juice
+T0279,Parmesan Cheese
+T0279,Pasta
+T0279,Pasta Sauce
+T0279,Sugar
+T0280,Basmati Rice
+T0280,Bread
+T0280,Butter
+T0280,Conditioner
+T0280,Garlic
+T0280,Shampoo
+T0280,Soap
+T0280,Whole Milk
+T0281,Bread
+T0281,Coffee
+T0281,Paper Towels
+T0281,Parmesan Cheese
+T0281,Pasta
+T0281,Pasta Sauce
+T0281,Soap
+T0281,Sugar
+T0282,Biscuits
+T0282,Coffee
+T0282,Milk Creamer
+T0282,Sugar
+T0282,Tea
+T0283,Bread
+T0283,Carrots
+T0283,Dish Soap
+T0283,Eggs
+T0283,Paper Towels
+T0283,Spinach
+T0283,Sponge
+T0284,Potato Chips
+T0284,Salt
+T0284,Tea
+T0285,Biscuits
+T0285,Tea
+T0286,Biscuits
+T0286,Coffee
+T0286,Milk Creamer
+T0286,Olive Oil
+T0286,Potatoes
+T0286,Sugar
+T0286,Tea
+T0287,Bread
+T0287,Oats
+T0287,Parmesan Cheese
+T0287,Whole Milk
+T0288,Bananas
+T0288,Bread
+T0288,Butter
+T0288,Cereal
+T0288,Salt
+T0288,Whole Milk
+T0289,Bread
+T0289,Burger Buns
+T0289,Eggs
+T0289,Ground Beef
+T0289,Ketchup
+T0289,Noodles
+T0289,Olive Oil
+T0289,Whole Milk
+T0290,Bananas
+T0290,Butter
+T0290,Cereal
+T0290,Salt
+T0290,Whole Milk
+T0291,Cereal
+T0291,Parmesan Cheese
+T0291,Pasta
+T0291,Pasta Sauce
+T0291,Potato Chips
+T0291,Salsa
+T0291,Soap
+T0291,Soda
+T0292,Garlic
+T0292,Ground Beef
+T0292,Ketchup
+T0292,Onions
+T0293,Bananas
+T0293,Cereal
+T0293,Onions
+T0293,Paper Towels
+T0293,Potatoes
+T0293,Tomatoes
+T0293,Whole Milk
+T0294,Bread
+T0294,Onions
+T0294,Peanut Butter
+T0294,Whole Milk
+T0295,Apples
+T0295,Bananas
+T0295,Cereal
+T0295,Honey
+T0295,Whole Milk
+T0295,Yogurt
+T0296,Bread
+T0296,Butter
+T0296,Coffee
+T0296,Milk Creamer
+T0296,Strawberry Jam
+T0297,Bread
+T0297,Butter
+T0297,Onions
+T0297,Spinach
+T0297,Tomatoes
+T0297,Whole Milk
+T0297,Yogurt
+T0298,Conditioner
+T0298,Potato Chips
+T0298,Salsa
+T0298,Shampoo
+T0298,Soda
+T0299,Bread
+T0299,Butter
+T0299,Strawberry Jam
+T0299,Whole Milk
+T0300,Bananas
+T0300,Bread
+T0300,Butter
+T0300,Cereal
+T0300,Whole Milk
+T0301,Basmati Rice
+T0301,Cheese
+T0301,Chicken Breast
+T0301,Coffee
+T0301,Garlic
+T0301,Onions
+T0301,Parmesan Cheese
+T0301,Pasta
+T0301,Pasta Sauce
+T0301,Peanut Butter
+T0302,Parmesan Cheese
+T0302,Pasta
+T0302,Pasta Sauce
+T0302,Sugar
+T0303,Bananas
+T0303,Basmati Rice
+T0303,Chicken Breast
+T0303,Onions
+T0303,Parmesan Cheese
+T0303,Pasta
+T0304,Bananas
+T0304,Basmati Rice
+T0304,Cereal
+T0304,Chicken Breast
+T0304,Garlic
+T0304,Onions
+T0304,Whole Milk
+T0305,Bananas
+T0305,Bread
+T0305,Cereal
+T0305,Eggs
+T0305,Whole Milk
+T0306,Coffee
+T0306,Eggs
+T0306,Sugar
+T0306,Whole Milk
+T0306,Yogurt
+T0307,Basmati Rice
+T0307,Burger Buns
+T0307,Ground Beef
+T0307,Ketchup
+T0307,Onions
+T0307,Spinach
+T0307,Tomatoes
+T0308,Bananas
+T0308,Cereal
+T0308,Whole Milk
+T0309,Bread
+T0309,Butter
+T0309,Whole Milk
+T0310,Butter
+T0310,Tomatoes
+T0311,Basmati Rice
+T0311,Biscuits
+T0311,Chicken Breast
+T0311,Garlic
+T0311,Onions
+T0311,Paper Towels
+T0311,Parmesan Cheese
+T0311,Pasta
+T0311,Soap
+T0312,Bottled Water
+T0312,Cheese
+T0312,Crackers
+T0312,Oats
+T0312,Orange Juice
+T0313,Apples
+T0313,Burger Buns
+T0313,Coffee
+T0313,Ground Beef
+T0313,Honey
+T0313,Ketchup
+T0313,Potatoes
+T0313,Yogurt
+T0314,Apples
+T0314,Honey
+T0314,Olive Oil
+T0314,Parmesan Cheese
+T0314,Pasta
+T0314,Pasta Sauce
+T0315,Bread
+T0315,Cereal
+T0315,Dish Soap
+T0315,Paper Towels
+T0315,Sponge
+T0316,Bananas
+T0316,Bread
+T0316,Butter
+T0316,Cereal
+T0316,Coffee
+T0316,Orange Juice
+T0316,Strawberry Jam
+T0316,Whole Milk
+T0317,Bread
+T0317,Butter
+T0317,Cereal
+T0317,Coffee
+T0317,Milk Creamer
+T0317,Sugar
+T0317,Whole Milk
+T0318,Bread
+T0318,Eggs
+T0318,Orange Juice
+T0318,Parmesan Cheese
+T0318,Pasta
+T0318,Pasta Sauce
+T0318,Whole Milk
+T0319,Burger Buns
+T0319,Ground Beef
+T0320,Bananas
+T0320,Bread
+T0320,Butter
+T0320,Oats
+T0320,Strawberry Jam
+T0320,Whole Milk
+T0321,Bread
+T0321,Butter
+T0321,Parmesan Cheese
+T0321,Pasta
+T0321,Pasta Sauce
+T0321,Whole Milk
+T0322,Bread
+T0322,Butter
+T0322,Chicken Breast
+T0322,Eggs
+T0322,Peanut Butter
+T0322,Strawberry Jam
+T0322,Whole Milk
+T0323,Basmati Rice
+T0323,Biscuits
+T0323,Chicken Breast
+T0323,Onions
+T0323,Potato Chips
+T0324,Potato Chips
+T0324,Soda
+T0325,Bread
+T0325,Conditioner
+T0325,Pasta
+T0325,Potato Chips
+T0325,Salsa
+T0325,Shampoo
+T0325,Soda
+T0325,Sugar
+T0326,Bread
+T0326,Burger Buns
+T0326,Ground Beef
+T0326,Ketchup
+T0326,Peanut Butter
+T0326,Soda
+T0326,Strawberry Jam
+T0327,Bread
+T0327,Paper Towels
+T0327,Peanut Butter
+T0328,Bread
+T0328,Butter
+T0328,Carrots
+T0328,Garlic
+T0328,Peanut Butter
+T0328,Soap
+T0328,Whole Milk
+T0329,Bread
+T0329,Butter
+T0329,Coffee
+T0329,Milk Creamer
+T0329,Strawberry Jam
+T0330,Apples
+T0330,Basmati Rice
+T0330,Honey
+T0330,Toothpaste
+T0330,Yogurt
+T0331,Noodles
+T0331,Pasta
+T0331,Potato Chips
+T0331,Salsa
+T0331,Soda
+T0331,Spinach
+T0332,Apples
+T0332,Carrots
+T0332,Onions
+T0332,Spinach
+T0332,Tomatoes
+T0333,Bananas
+T0333,Bread
+T0333,Butter
+T0333,Cereal
+T0333,Chicken Breast
+T0333,Soda
+T0333,Whole Milk
+T0334,Biscuits
+T0334,Bread
+T0334,Eggs
+T0334,Tea
+T0334,Whole Milk
+T0335,Bread
+T0335,Coffee
+T0335,Milk Creamer
+T0335,Sugar
+T0335,Whole Milk
+T0336,Basmati Rice
+T0336,Chicken Breast
+T0336,Garlic
+T0336,Onions
+T0336,Whole Milk
+T0337,Apples
+T0337,Honey
+T0337,Onions
+T0337,Yogurt
+T0338,Bread
+T0338,Butter
+T0338,Chicken Breast
+T0338,Parmesan Cheese
+T0338,Pasta
+T0338,Pasta Sauce
+T0338,Whole Milk
+T0338,Yogurt
+T0339,Pasta
+T0339,Pasta Sauce
+T0339,Tea
+T0339,Yogurt
+T0340,Coffee
+T0340,Conditioner
+T0340,Pasta
+T0340,Shampoo
+T0341,Biscuits
+T0341,Bread
+T0341,Butter
+T0341,Carrots
+T0341,Strawberry Jam
+T0341,Tea
+T0342,Parmesan Cheese
+T0342,Pasta
+T0342,Potato Chips
+T0342,Salsa
+T0342,Soda
+T0343,Biscuits
+T0343,Potato Chips
+T0343,Salsa
+T0343,Soda
+T0343,Tea
+T0344,Onions
+T0344,Spinach
+T0344,Tomatoes
+T0344,Whole Milk
+T0345,Bread
+T0345,Butter
+T0345,Eggs
+T0345,Noodles
+T0345,Salt
+T0345,Strawberry Jam
+T0345,Whole Milk
+T0346,Ketchup
+T0346,Parmesan Cheese
+T0346,Pasta
+T0346,Pasta Sauce
+T0346,Sugar
+T0347,Apples
+T0347,Bread
+T0347,Butter
+T0347,Garlic
+T0347,Whole Milk
+T0348,Burger Buns
+T0348,Coffee
+T0348,Ground Beef
+T0348,Ketchup
+T0348,Milk Creamer
+T0348,Orange Juice
+T0348,Salt
+T0348,Sugar
+T0349,Biscuits
+T0349,Cheese
+T0349,Pasta
+T0349,Toothpaste
+T0350,Biscuits
+T0350,Dish Soap
+T0350,Paper Towels
+T0351,Coffee
+T0351,Milk Creamer
+T0351,Orange Juice
+T0351,Parmesan Cheese
+T0351,Pasta
+T0351,Pasta Sauce
+T0352,Bread
+T0352,Butter
+T0352,Salsa
+T0352,Soda
+T0352,Whole Milk
+T0353,Bottled Water
+T0353,Bread
+T0353,Eggs
+T0353,Orange Juice
+T0353,Parmesan Cheese
+T0353,Pasta
+T0353,Pasta Sauce
+T0354,Chicken Breast
+T0354,Potato Chips
+T0354,Salsa
+T0354,Soda
+T0355,Bread
+T0355,Dish Soap
+T0355,Paper Towels
+T0355,Peanut Butter
+T0355,Soda
+T0355,Sponge
+T0355,Strawberry Jam
+T0356,Bananas
+T0356,Basmati Rice
+T0356,Cereal
+T0356,Chicken Breast
+T0356,Garlic
+T0356,Onions
+T0356,Sugar
+T0356,Whole Milk
+T0357,Dish Soap
+T0357,Onions
+T0357,Paper Towels
+T0357,Sponge
+T0357,Tomatoes
+T0358,Basmati Rice
+T0358,Butter
+T0358,Dish Soap
+T0358,Paper Towels
+T0358,Sponge
+T0358,Strawberry Jam
+T0359,Bread
+T0359,Burger Buns
+T0359,Eggs
+T0359,Ground Beef
+T0359,Ketchup
+T0360,Basmati Rice
+T0360,Cereal
+T0360,Chicken Breast
+T0360,Garlic
+T0360,Onions
+T0360,Pasta
+T0360,Whole Milk
+T0361,Bread
+T0361,Chicken Breast
+T0361,Coffee
+T0361,Eggs
+T0361,Milk Creamer
+T0361,Pasta
+T0361,Sugar
+T0361,Whole Milk
+T0362,Bananas
+T0362,Biscuits
+T0362,Cereal
+T0362,Oats
+T0362,Sugar
+T0362,Tea
+T0362,Whole Milk
+T0362,Yogurt
+T0363,Noodles
+T0363,Pasta
+T0363,Pasta Sauce
+T0363,Potatoes
+T0363,Tomatoes
+T0364,Basmati Rice
+T0364,Chicken Breast
+T0364,Garlic
+T0364,Onions
+T0364,Parmesan Cheese
+T0364,Pasta
+T0364,Pasta Sauce
+T0365,Bananas
+T0365,Butter
+T0365,Cereal
+T0365,Onions
+T0365,Strawberry Jam
+T0365,Whole Milk
+T0366,Bread
+T0366,Eggs
+T0366,Potato Chips
+T0366,Salsa
+T0366,Soda
+T0366,Whole Milk
+T0367,Onions
+T0367,Parmesan Cheese
+T0367,Pasta
+T0367,Pasta Sauce
+T0367,Soda
+T0367,Spinach
+T0368,Biscuits
+T0368,Tea
+T0369,Butter
+T0369,Conditioner
+T0369,Shampoo
+T0369,Whole Milk
+T0370,Bread
+T0370,Eggs
+T0370,Parmesan Cheese
+T0370,Pasta
+T0370,Pasta Sauce
+T0370,Toothpaste
+T0370,Whole Milk
+T0371,Bread
+T0371,Butter
+T0371,Whole Milk
+T0372,Apples
+T0372,Honey
+T0372,Ice Cream
+T0372,Onions
+T0372,Spinach
+T0372,Tomatoes
+T0372,Yogurt
+T0373,Biscuits
+T0373,Bread
+T0373,Butter
+T0373,Cereal
+T0373,Eggs
+T0373,Paper Towels
+T0373,Tea
+T0373,Whole Milk
+T0374,Bananas
+T0374,Cereal
+T0374,Pasta
+T0374,Pasta Sauce
+T0374,Soda
+T0374,Tea
+T0374,Whole Milk
+T0375,Bread
+T0375,Eggs
+T0375,Ice Cream
+T0375,Onions
+T0375,Parmesan Cheese
+T0375,Potatoes
+T0375,Whole Milk
+T0376,Burger Buns
+T0376,Cheese
+T0376,Cucumber
+T0376,Ground Beef
+T0376,Ice Cream
+T0376,Ketchup
+T0376,Onions
+T0376,Spinach
+T0376,Tomatoes
+T0377,Basmati Rice
+T0377,Chicken Breast
+T0377,Garlic
+T0377,Onions
+T0377,Tea
+T0377,Tomatoes
+T0378,Bananas
+T0378,Basmati Rice
+T0378,Cereal
+T0378,Chicken Breast
+T0378,Garlic
+T0378,Onions
+T0378,Whole Milk
+T0379,Pasta
+T0379,Whole Milk
+T0379,Yogurt
+T0380,Cheese
+T0380,Crackers
+T0380,Orange Juice
+T0380,Salt
+T0381,Butter
+T0381,Orange Juice
+T0381,Peanut Butter
+T0381,Whole Milk
+T0382,Eggs
+T0382,Whole Milk
+T0383,Coffee
+T0383,Milk Creamer
+T0383,Soda
+T0383,Spinach
+T0383,Sugar
+T0384,Bread
+T0384,Butter
+T0384,Cheese
+T0384,Noodles
+T0384,Strawberry Jam
+T0385,Bananas
+T0385,Chocolate Syrup
+T0385,Honey
+T0385,Ice Cream
+T0385,Whole Milk
+T0386,Cheese
+T0386,Crackers
+T0386,Dish Soap
+T0386,Orange Juice
+T0386,Paper Towels
+T0387,Cheese
+T0387,Coffee
+T0387,Ketchup
+T0387,Milk Creamer
+T0387,Sugar
+T0387,Whole Milk
+T0388,Bread
+T0388,Butter
+T0388,Coffee
+T0388,Onions
+T0388,Orange Juice
+T0388,Potato Chips
+T0388,Spinach
+T0388,Strawberry Jam
+T0388,Tomatoes
+T0389,Bread
+T0389,Cereal
+T0389,Pasta
+T0389,Pasta Sauce
+T0389,Spinach
+T0389,Whole Milk
+T0390,Coffee
+T0390,Milk Creamer
+T0390,Noodles
+T0390,Onions
+T0390,Spinach
+T0390,Sugar
+T0391,Bread
+T0391,Butter
+T0391,Conditioner
+T0391,Shampoo
+T0391,Whole Milk
+T0392,Apples
+T0392,Dish Soap
+T0392,Garlic
+T0392,Honey
+T0392,Onions
+T0392,Paper Towels
+T0392,Soap
+T0392,Sponge
+T0392,Yogurt
+T0393,Bananas
+T0393,Biscuits
+T0393,Cereal
+T0393,Cheese
+T0393,Parmesan Cheese
+T0393,Pasta
+T0393,Pasta Sauce
+T0393,Potatoes
+T0394,Bananas
+T0394,Bread
+T0394,Cereal
+T0394,Eggs
+T0394,Whole Milk
+T0395,Butter
+T0395,Coffee
+T0395,Cucumber
+T0395,Toothpaste
+T0395,Whole Milk
+T0396,Bread
+T0396,Butter
+T0396,Conditioner
+T0396,Shampoo
+T0396,Whole Milk
+T0397,Bread
+T0397,Butter
+T0397,Cucumber
+T0397,Shampoo
+T0397,Strawberry Jam
+T0397,Tomatoes
+T0398,Bread
+T0398,Butter
+T0398,Honey
+T0398,Olive Oil
+T0398,Orange Juice
+T0398,Whole Milk
+T0398,Yogurt
+T0399,Parmesan Cheese
+T0399,Pasta
+T0399,Pasta Sauce
+T0399,Potato Chips
+T0399,Salsa
+T0399,Soap
+T0399,Soda
+T0400,Bananas
+T0400,Cereal
+T0400,Conditioner
+T0400,Whole Milk
+T0401,Bread
+T0401,Butter
+T0401,Whole Milk
+T0402,Chocolate Syrup
+T0402,Ice Cream
+T0403,Bread
+T0403,Butter
+T0403,Cucumber
+T0403,Parmesan Cheese
+T0403,Pasta
+T0403,Pasta Sauce
+T0403,Potato Chips
+T0403,Tomatoes
+T0403,Whole Milk
+T0404,Bread
+T0404,Peanut Butter
+T0404,Salt
+T0404,Toothpaste
+T0405,Parmesan Cheese
+T0405,Pasta
+T0405,Pasta Sauce
+T0406,Basmati Rice
+T0406,Parmesan Cheese
+T0406,Pasta
+T0406,Pasta Sauce
+T0406,Soda
+T0407,Biscuits
+T0407,Conditioner
+T0407,Oats
+T0407,Onions
+T0407,Shampoo
+T0407,Tea
+T0408,Bread
+T0408,Honey
+T0408,Onions
+T0408,Peanut Butter
+T0409,Bananas
+T0409,Biscuits
+T0409,Cereal
+T0409,Honey
+T0409,Potatoes
+T0409,Tea
+T0409,Whole Milk
+T0410,Conditioner
+T0410,Shampoo
+T0410,Sugar
+T0411,Bread
+T0411,Butter
+T0411,Cereal
+T0411,Oats
+T0411,Tomatoes
+T0411,Whole Milk
+T0412,Bread
+T0412,Whole Milk
+T0413,Pasta
+T0413,Pasta Sauce
+T0414,Cereal
+T0414,Whole Milk
+T0415,Biscuits
+T0415,Bread
+T0415,Butter
+T0415,Pasta
+T0415,Potatoes
+T0415,Whole Milk
+T0416,Apples
+T0416,Bread
+T0416,Butter
+T0416,Honey
+T0416,Whole Milk
+T0416,Yogurt
+T0417,Cheese
+T0417,Coffee
+T0417,Crackers
+T0417,Milk Creamer
+T0417,Orange Juice
+T0417,Pasta
+T0417,Sugar
+T0418,Apples
+T0418,Biscuits
+T0418,Bread
+T0418,Butter
+T0418,Parmesan Cheese
+T0418,Pasta
+T0418,Pasta Sauce
+T0418,Tea
+T0419,Basmati Rice
+T0419,Butter
+T0419,Chicken Breast
+T0419,Coffee
+T0419,Garlic
+T0419,Milk Creamer
+T0419,Onions
+T0419,Sugar
+T0419,Tea
+T0420,Cheese
+T0420,Crackers
+T0420,Honey
+T0420,Ketchup
+T0420,Orange Juice
+T0420,Pasta
+T0420,Pasta Sauce
+T0421,Chocolate Syrup
+T0421,Ice Cream
+T0421,Onions
+T0421,Whole Milk
+T0422,Biscuits
+T0422,Coffee
+T0422,Milk Creamer
+T0422,Orange Juice
+T0422,Sugar
+T0422,Tea
+T0423,Bread
+T0423,Butter
+T0423,Strawberry Jam
+T0423,Tea
+T0423,Whole Milk
+T0424,Tomatoes
+T0425,Apples
+T0425,Bread
+T0425,Honey
+T0425,Peanut Butter
+T0425,Strawberry Jam
+T0425,Yogurt
+T0426,Bread
+T0426,Butter
+T0426,Paper Towels
+T0426,Sugar
+T0427,Bread
+T0427,Paper Towels
+T0427,Pasta
+T0427,Pasta Sauce
+T0427,Peanut Butter
+T0427,Strawberry Jam
+T0428,Bottled Water
+T0428,Bread
+T0428,Butter
+T0428,Cereal
+T0428,Oats
+T0428,Spinach
+T0428,Strawberry Jam
+T0428,Whole Milk
+T0429,Bread
+T0429,Butter
+T0429,Carrots
+T0429,Chicken Breast
+T0429,Pasta
+T0429,Potato Chips
+T0429,Salsa
+T0429,Strawberry Jam
+T0430,Biscuits
+T0430,Spinach
+T0431,Apples
+T0431,Bread
+T0431,Butter
+T0431,Parmesan Cheese
+T0431,Pasta
+T0431,Pasta Sauce
+T0431,Potato Chips
+T0431,Soap
+T0431,Whole Milk
+T0432,Bread
+T0432,Coffee
+T0432,Milk Creamer
+T0432,Sugar
+T0432,Whole Milk
+T0433,Bread
+T0433,Butter
+T0433,Peanut Butter
+T0433,Strawberry Jam
+T0434,Oats
+T0434,Spinach
+T0435,Bottled Water
+T0435,Bread
+T0435,Butter
+T0435,Coffee
+T0435,Cucumber
+T0435,Milk Creamer
+T0435,Potato Chips
+T0435,Strawberry Jam
+T0435,Sugar
+T0436,Bananas
+T0436,Burger Buns
+T0436,Ground Beef
+T0436,Ketchup
+T0436,Peanut Butter
+T0437,Burger Buns
+T0437,Butter
+T0437,Cheese
+T0437,Crackers
+T0437,Ground Beef
+T0437,Ketchup
+T0437,Orange Juice
+T0438,Bananas
+T0438,Cereal
+T0438,Parmesan Cheese
+T0438,Pasta
+T0438,Pasta Sauce
+T0438,Whole Milk
+T0439,Bread
+T0439,Butter
+T0439,Strawberry Jam
+T0440,Basmati Rice
+T0440,Chicken Breast
+T0440,Garlic
+T0440,Olive Oil
+T0440,Onions
+T0440,Yogurt
+T0441,Bread
+T0441,Butter
+T0441,Whole Milk
+T0442,Bread
+T0442,Butter
+T0442,Coffee
+T0442,Garlic
+T0442,Milk Creamer
+T0442,Sugar
+T0442,Whole Milk
+T0443,Onions
+T0443,Peanut Butter
+T0443,Potato Chips
+T0443,Salsa
+T0443,Soda
+T0443,Spinach
+T0443,Sugar
+T0443,Tomatoes
+T0444,Bananas
+T0444,Cereal
+T0444,Ice Cream
+T0444,Olive Oil
+T0444,Whole Milk
+T0445,Biscuits
+T0445,Bread
+T0445,Peanut Butter
+T0445,Strawberry Jam
+T0445,Tea
+T0446,Bread
+T0446,Orange Juice
+T0446,Tea
+T0447,Sponge
+T0448,Bananas
+T0448,Cereal
+T0448,Parmesan Cheese
+T0448,Pasta
+T0448,Potatoes
+T0448,Whole Milk
+T0449,Bread
+T0449,Butter
+T0449,Strawberry Jam
+T0449,Whole Milk
+T0450,Bread
+T0450,Butter
+T0450,Chicken Breast
+T0450,Parmesan Cheese
+T0450,Pasta
+T0450,Pasta Sauce
+T0450,Whole Milk
+T0451,Biscuits
+T0451,Burger Buns
+T0451,Ground Beef
+T0451,Ketchup
+T0451,Orange Juice
+T0451,Tea
+T0452,Bread
+T0452,Eggs
+T0452,Peanut Butter
+T0452,Toothpaste
+T0452,Whole Milk
+T0453,Biscuits
+T0453,Bread
+T0453,Butter
+T0453,Strawberry Jam
+T0453,Tea
+T0454,Biscuits
+T0454,Bread
+T0454,Chocolate Syrup
+T0454,Cucumber
+T0454,Ice Cream
+T0455,Apples
+T0455,Bananas
+T0455,Cereal
+T0455,Conditioner
+T0455,Orange Juice
+T0455,Shampoo
+T0455,Whole Milk
+T0456,Bread
+T0456,Butter
+T0456,Cucumber
+T0456,Strawberry Jam
+T0457,Potatoes
+T0457,Tea
+T0458,Bananas
+T0458,Bread
+T0458,Cereal
+T0458,Eggs
+T0458,Ice Cream
+T0458,Whole Milk
+T0459,Biscuits
+T0459,Bread
+T0459,Butter
+T0459,Strawberry Jam
+T0459,Tea
+T0460,Basmati Rice
+T0460,Bread
+T0460,Butter
+T0460,Chicken Breast
+T0460,Garlic
+T0460,Onions
+T0460,Whole Milk
+T0461,Bread
+T0461,Butter
+T0461,Coffee
+T0461,Strawberry Jam
+T0461,Sugar
+T0462,Biscuits
+T0462,Bottled Water
+T0462,Bread
+T0462,Butter
+T0462,Strawberry Jam
+T0462,Tea
+T0463,Apples
+T0463,Cereal
+T0463,Honey
+T0463,Yogurt
+T0464,Apples
+T0464,Bread
+T0464,Butter
+T0464,Tea
+T0465,Pasta
+T0466,Bread
+T0466,Butter
+T0466,Cucumber
+T0466,Soap
+T0466,Sugar
+T0467,Biscuits
+T0467,Bread
+T0467,Chicken Breast
+T0467,Eggs
+T0467,Soda
+T0467,Tea
+T0467,Whole Milk
+T0468,Bread
+T0468,Butter
+T0468,Honey
+T0468,Orange Juice
+T0468,Parmesan Cheese
+T0468,Pasta
+T0468,Pasta Sauce
+T0468,Soda
+T0468,Whole Milk
+T0469,Bananas
+T0469,Basmati Rice
+T0469,Cereal
+T0469,Chicken Breast
+T0469,Garlic
+T0469,Onions
+T0469,Whole Milk
+T0470,Onions
+T0470,Potato Chips
+T0470,Tea
+T0470,Tomatoes
+T0471,Burger Buns
+T0471,Conditioner
+T0471,Ground Beef
+T0471,Ketchup
+T0471,Oats
+T0471,Paper Towels
+T0471,Shampoo
+T0472,Bananas
+T0472,Bread
+T0472,Cheese
+T0472,Eggs
+T0472,Noodles
+T0472,Soap
+T0472,Whole Milk
+T0473,Onions
+T0473,Pasta
+T0473,Pasta Sauce
+T0473,Spinach
+T0473,Tomatoes
+T0474,Biscuits
+T0474,Peanut Butter
+T0474,Tea
+T0475,Bread
+T0475,Butter
+T0475,Coffee
+T0475,Eggs
+T0475,Oats
+T0475,Onions
+T0475,Whole Milk
+T0476,Cheese
+T0476,Crackers
+T0476,Soap
+T0477,Bread
+T0477,Butter
+T0477,Cheese
+T0477,Coffee
+T0477,Salsa
+T0477,Soda
+T0477,Whole Milk
+T0478,Bottled Water
+T0478,Dish Soap
+T0478,Ice Cream
+T0478,Sponge
+T0479,Apples
+T0479,Honey
+T0479,Toothpaste
+T0479,Yogurt
+T0480,Bananas
+T0480,Bread
+T0480,Butter
+T0480,Chicken Breast
+T0480,Chocolate Syrup
+T0480,Ice Cream
+T0480,Potatoes
+T0480,Strawberry Jam
+T0481,Chicken Breast
+T0481,Onions
+T0481,Orange Juice
+T0481,Tea
+T0482,Basmati Rice
+T0482,Chicken Breast
+T0482,Garlic
+T0482,Onions
+T0482,Potato Chips
+T0482,Salsa
+T0482,Soda
+T0483,Honey
+T0483,Noodles
+T0483,Potato Chips
+T0483,Salsa
+T0483,Soda
+T0484,Chicken Breast
+T0484,Coffee
+T0484,Onions
+T0485,Bread
+T0485,Carrots
+T0485,Eggs
+T0485,Onions
+T0485,Whole Milk
+T0486,Apples
+T0486,Honey
+T0486,Tea
+T0486,Yogurt
+T0487,Butter
+T0487,Chicken Breast
+T0487,Parmesan Cheese
+T0487,Pasta
+T0487,Pasta Sauce
+T0487,Tea
+T0488,Basmati Rice
+T0488,Bread
+T0488,Butter
+T0488,Cucumber
+T0488,Eggs
+T0488,Tea
+T0488,Whole Milk
+T0489,Basmati Rice
+T0489,Potato Chips
+T0489,Potatoes
+T0489,Salsa
+T0489,Spinach
+T0489,Tomatoes
+T0489,Whole Milk
+T0490,Potato Chips
+T0490,Salsa
+T0490,Soda
+T0490,Sugar
+T0491,Whole Milk
+T0492,Bananas
+T0492,Butter
+T0492,Cereal
+T0492,Honey
+T0492,Peanut Butter
+T0492,Tomatoes
+T0492,Whole Milk
+T0493,Bread
+T0493,Eggs
+T0493,Potato Chips
+T0493,Whole Milk
+T0493,Yogurt
+T0494,Bread
+T0494,Butter
+T0494,Ketchup
+T0494,Strawberry Jam
+T0495,Bread
+T0496,Bananas
+T0496,Cereal
+T0496,Oats
+T0496,Whole Milk
+T0497,Butter
+T0497,Honey
+T0497,Onions
+T0497,Whole Milk
+T0498,Bananas
+T0498,Cereal
+T0498,Potato Chips
+T0498,Salsa
+T0498,Spinach
+T0498,Whole Milk
+T0499,Bananas
+T0499,Butter
+T0499,Cereal
+T0499,Garlic
+T0499,Strawberry Jam
+T0499,Whole Milk
+T0500,Coffee
+T0500,Milk Creamer
+T0500,Onions
+T0500,Potato Chips
+T0500,Salt
+T0500,Spinach
+T0500,Sugar
+T0500,Tomatoes
+T0501,Bread
+T0501,Butter
+T0501,Chicken Breast
+T0502,Bananas
+T0502,Ketchup
+T0502,Peanut Butter
+T0502,Whole Milk
+T0503,Biscuits
+T0503,Bread
+T0503,Butter
+T0503,Strawberry Jam
+T0503,Whole Milk
+T0504,Bread
+T0504,Butter
+T0504,Garlic
+T0504,Potato Chips
+T0504,Whole Milk
+T0505,Coffee
+T0505,Milk Creamer
+T0505,Peanut Butter
+T0505,Sugar
+T0506,Bread
+T0506,Cucumber
+T0506,Onions
+T0506,Spinach
+T0506,Strawberry Jam
+T0506,Tomatoes
+T0507,Bread
+T0507,Butter
+T0507,Conditioner
+T0507,Orange Juice
+T0507,Shampoo
+T0508,Bananas
+T0508,Cereal
+T0508,Coffee
+T0508,Milk Creamer
+T0508,Sugar
+T0508,Whole Milk
+T0509,Biscuits
+T0509,Bread
+T0509,Eggs
+T0509,Tea
+T0509,Tomatoes
+T0509,Yogurt
+T0510,Basmati Rice
+T0510,Carrots
+T0510,Chicken Breast
+T0510,Oats
+T0510,Onions
+T0510,Peanut Butter
+T0510,Yogurt
+T0511,Bread
+T0511,Butter
+T0511,Parmesan Cheese
+T0511,Pasta
+T0511,Pasta Sauce
+T0512,Chicken Breast
+T0512,Potato Chips
+T0512,Soda
+T0512,Tea
+T0513,Biscuits
+T0513,Butter
+T0513,Strawberry Jam
+T0513,Tea
+T0514,Bread
+T0514,Butter
+T0514,Spinach
+T0514,Whole Milk
+T0515,Coffee
+T0515,Cucumber
+T0515,Pasta
+T0515,Sugar
+T0516,Bread
+T0516,Eggs
+T0516,Parmesan Cheese
+T0516,Pasta
+T0516,Pasta Sauce
+T0516,Whole Milk
+T0517,Bananas
+T0517,Biscuits
+T0517,Coffee
+T0517,Milk Creamer
+T0517,Noodles
+T0517,Soda
+T0517,Sugar
+T0517,Tea
+T0518,Bananas
+T0518,Cereal
+T0518,Parmesan Cheese
+T0518,Pasta
+T0518,Pasta Sauce
+T0518,Whole Milk
+T0519,Cheese
+T0519,Garlic
+T0519,Pasta
+T0519,Pasta Sauce
+T0519,Potato Chips
+T0520,Basmati Rice
+T0520,Bread
+T0520,Chicken Breast
+T0520,Eggs
+T0520,Garlic
+T0520,Honey
+T0520,Onions
+T0520,Peanut Butter
+T0520,Whole Milk
+T0521,Bread
+T0521,Carrots
+T0521,Peanut Butter
+T0522,Cereal
+T0522,Whole Milk
+T0523,Bread
+T0523,Butter
+T0523,Cheese
+T0523,Parmesan Cheese
+T0523,Pasta Sauce
+T0523,Peanut Butter
+T0523,Whole Milk
+T0524,Apples
+T0524,Basmati Rice
+T0524,Chicken Breast
+T0524,Coffee
+T0524,Garlic
+T0524,Milk Creamer
+T0524,Onions
+T0524,Sugar
+T0525,Bananas
+T0525,Bread
+T0525,Butter
+T0525,Cereal
+T0525,Whole Milk
+T0526,Bread
+T0526,Butter
+T0526,Garlic
+T0526,Olive Oil
+T0526,Potato Chips
+T0526,Salsa
+T0526,Soda
+T0526,Toothpaste
+T0527,Bananas
+T0527,Dish Soap
+T0527,Paper Towels
+T0527,Sponge
+T0527,Yogurt
+T0528,Bread
+T0528,Eggs
+T0528,Sugar
+T0528,Tea
+T0528,Whole Milk
+T0529,Cheese
+T0529,Crackers
+T0529,Orange Juice
+T0530,Bananas
+T0530,Cereal
+T0530,Whole Milk
+T0531,Basmati Rice
+T0531,Bread
+T0531,Butter
+T0531,Garlic
+T0531,Soap
+T0531,Strawberry Jam
+T0532,Carrots
+T0532,Coffee
+T0532,Milk Creamer
+T0532,Sugar
+T0532,Yogurt
+T0533,Bananas
+T0533,Cereal
+T0533,Soda
+T0533,Whole Milk
+T0534,Bananas
+T0534,Cereal
+T0534,Garlic
+T0534,Whole Milk
+T0535,Butter
+T0535,Cereal
+T0535,Strawberry Jam
+T0536,Burger Buns
+T0536,Eggs
+T0536,Ground Beef
+T0536,Ketchup
+T0536,Paper Towels
+T0537,Biscuits
+T0537,Carrots
+T0537,Tea
+T0538,Bread
+T0538,Butter
+T0538,Parmesan Cheese
+T0538,Pasta
+T0538,Pasta Sauce
+T0538,Strawberry Jam
+T0539,Bread
+T0539,Butter
+T0539,Conditioner
+T0539,Shampoo
+T0539,Tomatoes
+T0539,Whole Milk
+T0540,Eggs
+T0540,Soda
+T0540,Whole Milk
+T0541,Bread
+T0541,Butter
+T0541,Cereal
+T0541,Strawberry Jam
+T0541,Whole Milk
+T0542,Basmati Rice
+T0542,Bread
+T0542,Chicken Breast
+T0542,Garlic
+T0542,Onions
+T0542,Orange Juice
+T0542,Strawberry Jam
+T0542,Tea
+T0543,Bread
+T0543,Butter
+T0543,Carrots
+T0543,Chicken Breast
+T0543,Conditioner
+T0543,Honey
+T0543,Shampoo
+T0543,Whole Milk
+T0544,Shampoo
+T0545,Bread
+T0545,Butter
+T0545,Milk Creamer
+T0545,Sugar
+T0545,Whole Milk
+T0546,Biscuits
+T0546,Potato Chips
+T0546,Salsa
+T0546,Soda
+T0546,Sugar
+T0547,Bread
+T0547,Butter
+T0547,Chicken Breast
+T0547,Coffee
+T0547,Milk Creamer
+T0547,Sugar
+T0547,Whole Milk
+T0548,Butter
+T0548,Cheese
+T0548,Crackers
+T0549,Bread
+T0549,Eggs
+T0549,Sugar
+T0549,Whole Milk
+T0550,Tea
+T0551,Basmati Rice
+T0551,Burger Buns
+T0551,Ground Beef
+T0551,Ketchup
+T0551,Spinach
+T0551,Tea
+T0551,Tomatoes
+T0552,Biscuits
+T0552,Parmesan Cheese
+T0552,Pasta Sauce
+T0552,Tea
+T0553,Biscuits
+T0553,Bread
+T0553,Butter
+T0553,Carrots
+T0553,Ice Cream
+T0553,Onions
+T0553,Spinach
+T0553,Strawberry Jam
+T0554,Apples
+T0554,Honey
+T0554,Olive Oil
+T0554,Parmesan Cheese
+T0554,Pasta
+T0554,Pasta Sauce
+T0554,Yogurt
+T0555,Apples
+T0555,Bananas
+T0555,Biscuits
+T0555,Dish Soap
+T0555,Paper Towels
+T0555,Sponge
+T0555,Tea
+T0556,Burger Buns
+T0556,Eggs
+T0556,Garlic
+T0556,Ground Beef
+T0556,Ketchup
+T0556,Potato Chips
+T0556,Salsa
+T0556,Soda
+T0556,Whole Milk
+T0557,Bananas
+T0557,Cereal
+T0557,Whole Milk
+T0558,Bread
+T0558,Butter
+T0558,Cheese
+T0558,Noodles
+T0558,Soda
+T0558,Sponge
+T0558,Strawberry Jam
+T0559,Bread
+T0559,Paper Towels
+T0559,Parmesan Cheese
+T0559,Pasta
+T0559,Pasta Sauce
+T0559,Whole Milk
+T0560,Coffee
+T0560,Milk Creamer
+T0560,Pasta
+T0560,Potatoes
+T0560,Sugar
+T0561,Bread
+T0561,Potato Chips
+T0561,Salsa
+T0561,Soda
+T0561,Whole Milk
+T0562,Cheese
+T0562,Crackers
+T0562,Orange Juice
+T0562,Parmesan Cheese
+T0562,Pasta
+T0562,Pasta Sauce
+T0563,Bananas
+T0563,Bread
+T0563,Cereal
+T0563,Cheese
+T0563,Sugar
+T0563,Whole Milk
+T0564,Coffee
+T0564,Milk Creamer
+T0564,Onions
+T0564,Spinach
+T0564,Sugar
+T0564,Tomatoes
+T0565,Bananas
+T0565,Bread
+T0565,Butter
+T0565,Cereal
+T0565,Cheese
+T0565,Cucumber
+T0565,Tea
+T0565,Whole Milk
+T0566,Bread
+T0566,Butter
+T0566,Cheese
+T0566,Dish Soap
+T0566,Paper Towels
+T0566,Sponge
+T0566,Whole Milk
+T0567,Apples
+T0567,Bread
+T0567,Butter
+T0567,Honey
+T0567,Whole Milk
+T0568,Bananas
+T0568,Bread
+T0568,Butter
+T0568,Cereal
+T0568,Ketchup
+T0568,Strawberry Jam
+T0568,Whole Milk
+T0569,Biscuits
+T0569,Bread
+T0569,Butter
+T0569,Strawberry Jam
+T0569,Tea
+T0570,Basmati Rice
+T0570,Bread
+T0570,Butter
+T0570,Onions
+T0570,Strawberry Jam
+T0570,Whole Milk
+T0571,Biscuits
+T0571,Chocolate Syrup
+T0571,Garlic
+T0571,Honey
+T0571,Ice Cream
+T0571,Tea
+T0572,Bread
+T0572,Butter
+T0572,Eggs
+T0572,Whole Milk
+T0573,Bread
+T0573,Butter
+T0573,Carrots
+T0573,Eggs
+T0573,Whole Milk
+T0574,Pasta
+T0574,Pasta Sauce
+T0574,Spinach
+T0574,Tomatoes
+T0575,Bread
+T0575,Butter
+T0575,Potato Chips
+T0575,Salsa
+T0575,Soda
+T0575,Strawberry Jam
+T0575,Sugar
+T0576,Cucumber
+T0576,Potato Chips
+T0576,Salsa
+T0576,Soda
+T0576,Spinach
+T0577,Biscuits
+T0577,Bread
+T0577,Butter
+T0577,Pasta
+T0577,Tea
+T0578,Apples
+T0578,Biscuits
+T0578,Ice Cream
+T0578,Potato Chips
+T0578,Salsa
+T0578,Soda
+T0578,Tea
+T0579,Bread
+T0579,Butter
+T0579,Eggs
+T0579,Whole Milk
+T0580,Biscuits
+T0580,Butter
+T0580,Tea
+T0581,Bread
+T0581,Butter
+T0581,Strawberry Jam
+T0582,Apples
+T0582,Bread
+T0582,Butter
+T0582,Spinach
+T0582,Whole Milk
+T0583,Biscuits
+T0583,Burger Buns
+T0583,Ground Beef
+T0583,Ketchup
+T0583,Toothpaste
+T0584,Bread
+T0584,Chicken Breast
+T0584,Ice Cream
+T0584,Peanut Butter
+T0584,Strawberry Jam
+T0584,Sugar
+T0585,Apples
+T0585,Crackers
+T0585,Eggs
+T0585,Orange Juice
+T0585,Soap
+T0585,Yogurt
+T0586,Cheese
+T0586,Conditioner
+T0586,Garlic
+T0586,Parmesan Cheese
+T0586,Pasta
+T0586,Pasta Sauce
+T0586,Shampoo
+T0586,Tea
+T0587,Apples
+T0587,Bread
+T0587,Butter
+T0587,Coffee
+T0587,Milk Creamer
+T0587,Salt
+T0587,Sugar
+T0587,Whole Milk
+T0588,Cucumber
+T0588,Dish Soap
+T0588,Sponge
+T0588,Tomatoes
+T0588,Toothpaste
+T0589,Bread
+T0589,Milk Creamer
+T0589,Sugar
+T0589,Whole Milk
+T0590,Biscuits
+T0590,Bread
+T0590,Butter
+T0590,Potato Chips
+T0590,Strawberry Jam
+T0590,Tea
+T0591,Bread
+T0591,Cereal
+T0591,Onions
+T0591,Peanut Butter
+T0591,Strawberry Jam
+T0591,Tomatoes
+T0592,Biscuits
+T0592,Chocolate Syrup
+T0592,Eggs
+T0593,Bananas
+T0593,Bread
+T0593,Butter
+T0593,Cereal
+T0593,Spinach
+T0593,Whole Milk
+T0594,Bread
+T0594,Butter
+T0594,Potato Chips
+T0594,Salsa
+T0594,Soda
+T0594,Whole Milk
+T0595,Biscuits
+T0595,Bread
+T0595,Eggs
+T0595,Tea
+T0595,Whole Milk
+T0596,Parmesan Cheese
+T0596,Pasta
+T0596,Pasta Sauce
+T0597,Basmati Rice
+T0597,Chicken Breast
+T0597,Garlic
+T0597,Ground Beef
+T0597,Ketchup
+T0597,Oats
+T0597,Onions
+T0597,Potatoes
+T0597,Sugar
+T0598,Bread
+T0598,Butter
+T0598,Potato Chips
+T0598,Salsa
+T0598,Soap
+T0598,Soda
+T0599,Bananas
+T0599,Butter
+T0599,Cereal
+T0599,Olive Oil
+T0599,Potato Chips
+T0599,Soda
+T0600,Biscuits
+T0600,Cereal
+T0600,Cheese
+T0600,Crackers
+T0600,Onions
+T0600,Orange Juice
+T0600,Potato Chips
+T0600,Salsa
+T0600,Soda
+T0601,Bread
+T0601,Ice Cream
+T0601,Milk Creamer
+T0601,Strawberry Jam
+T0601,Sugar
+T0602,Biscuits
+T0602,Potato Chips
+T0602,Salsa
+T0602,Soda
+T0602,Tea
+T0603,Bottled Water
+T0603,Conditioner
+T0603,Shampoo
+T0603,Sugar
+T0603,Tomatoes
+T0604,Bananas
+T0604,Cereal
+T0604,Potato Chips
+T0604,Tea
+T0604,Whole Milk
+T0605,Dish Soap
+T0605,Paper Towels
+T0605,Potato Chips
+T0605,Salsa
+T0605,Soda
+T0605,Sponge
+T0606,Bread
+T0606,Butter
+T0607,Bread
+T0607,Butter
+T0607,Chicken Breast
+T0607,Eggs
+T0607,Garlic
+T0607,Onions
+T0607,Strawberry Jam
+T0608,Apples
+T0608,Carrots
+T0608,Paper Towels
+T0608,Yogurt
+T0609,Bread
+T0609,Butter
+T0609,Peanut Butter
+T0609,Strawberry Jam
+T0609,Whole Milk
+T0610,Bananas
+T0610,Basmati Rice
+T0610,Cereal
+T0610,Chicken Breast
+T0610,Garlic
+T0610,Onions
+T0610,Orange Juice
+T0610,Peanut Butter
+T0610,Whole Milk
+T0611,Bottled Water
+T0611,Noodles
+T0611,Onions
+T0611,Potato Chips
+T0611,Salsa
+T0611,Soda
+T0611,Spinach
+T0611,Tomatoes
+T0612,Bread
+T0612,Butter
+T0612,Whole Milk
+T0613,Basmati Rice
+T0613,Chicken Breast
+T0613,Garlic
+T0613,Onions
+T0613,Soda
+T0613,Spinach
+T0613,Tea
+T0613,Tomatoes
+T0614,Cereal
+T0614,Whole Milk
+T0615,Chocolate Syrup
+T0615,Ice Cream
+T0616,Bread
+T0616,Butter
+T0616,Cucumber
+T0616,Parmesan Cheese
+T0616,Pasta
+T0616,Pasta Sauce
+T0617,Bread
+T0617,Butter
+T0617,Eggs
+T0617,Strawberry Jam
+T0618,Bread
+T0618,Butter
+T0618,Coffee
+T0618,Milk Creamer
+T0618,Sugar
+T0618,Whole Milk
+T0619,Bananas
+T0619,Bottled Water
+T0619,Cereal
+T0619,Onions
+T0619,Peanut Butter
+T0619,Spinach
+T0619,Tomatoes
+T0619,Whole Milk
+T0619,Yogurt
+T0620,Coffee
+T0620,Milk Creamer
+T0620,Sugar
+T0621,Bread
+T0621,Butter
+T0621,Coffee
+T0621,Honey
+T0621,Milk Creamer
+T0621,Pasta
+T0621,Peanut Butter
+T0621,Sugar
+T0621,Whole Milk
+T0622,Bread
+T0622,Butter
+T0622,Pasta
+T0622,Whole Milk
+T0623,Coffee
+T0623,Milk Creamer
+T0623,Noodles
+T0623,Potato Chips
+T0623,Salsa
+T0623,Soda
+T0624,Apples
+T0624,Biscuits
+T0624,Bread
+T0624,Butter
+T0624,Peanut Butter
+T0624,Whole Milk
+T0625,Bread
+T0625,Butter
+T0625,Coffee
+T0625,Eggs
+T0625,Milk Creamer
+T0625,Sugar
+T0625,Whole Milk
+T0626,Apples
+T0626,Bananas
+T0626,Bread
+T0626,Cereal
+T0626,Eggs
+T0626,Pasta
+T0626,Whole Milk
+T0627,Bananas
+T0627,Bread
+T0627,Cereal
+T0627,Eggs
+T0627,Potatoes
+T0627,Spinach
+T0627,Whole Milk
+T0628,Butter
+T0628,Cheese
+T0628,Coffee
+T0628,Dish Soap
+T0628,Sponge
+T0628,Strawberry Jam
+T0629,Bread
+T0629,Butter
+T0629,Parmesan Cheese
+T0629,Pasta
+T0629,Pasta Sauce
+T0629,Strawberry Jam
+T0630,Cheese
+T0630,Orange Juice
+T0630,Potato Chips
+T0630,Salsa
+T0630,Soda
+T0630,Spinach
+T0630,Toothpaste
+T0631,Bread
+T0631,Butter
+T0631,Ketchup
+T0631,Potato Chips
+T0631,Salsa
+T0631,Soda
+T0631,Whole Milk
+T0632,Biscuits
+T0632,Bread
+T0632,Butter
+T0632,Carrots
+T0632,Strawberry Jam
+T0632,Tea
+T0632,Whole Milk
+T0633,Butter
+T0633,Cereal
+T0633,Honey
+T0633,Onions
+T0633,Peanut Butter
+T0633,Spinach
+T0633,Tomatoes
+T0633,Whole Milk
+T0634,Onions
+T0634,Peanut Butter
+T0634,Salsa
+T0634,Soda
+T0634,Spinach
+T0634,Tomatoes
+T0634,Toothpaste
+T0635,Bananas
+T0635,Carrots
+T0635,Coffee
+T0635,Sugar
+T0636,Bananas
+T0636,Cereal
+T0636,Whole Milk
+T0637,Biscuits
+T0637,Cereal
+T0637,Cucumber
+T0637,Honey
+T0637,Parmesan Cheese
+T0637,Pasta
+T0637,Pasta Sauce
+T0637,Tea
+T0638,Bread
+T0638,Butter
+T0638,Ketchup
+T0638,Orange Juice
+T0638,Whole Milk
+T0639,Bread
+T0639,Eggs
+T0639,Soap
+T0639,Whole Milk
+T0640,Parmesan Cheese
+T0640,Pasta
+T0640,Pasta Sauce
+T0641,Bread
+T0641,Butter
+T0641,Coffee
+T0641,Milk Creamer
+T0641,Sugar
+T0641,Whole Milk
+T0642,Basmati Rice
+T0642,Cheese
+T0642,Chicken Breast
+T0642,Coffee
+T0642,Cucumber
+T0642,Garlic
+T0642,Milk Creamer
+T0642,Onions
+T0642,Sugar
+T0643,Basmati Rice
+T0643,Chicken Breast
+T0643,Garlic
+T0643,Pasta
+T0644,Bananas
+T0644,Bread
+T0644,Butter
+T0644,Cereal
+T0644,Tea
+T0645,Bread
+T0645,Butter
+T0645,Potatoes
+T0645,Whole Milk
+T0645,Yogurt
+T0646,Cheese
+T0646,Crackers
+T0646,Orange Juice
+T0647,Bread
+T0647,Paper Towels
+T0647,Potatoes
+T0647,Whole Milk
+T0648,Burger Buns
+T0648,Coffee
+T0648,Ground Beef
+T0649,Peanut Butter
+T0649,Potato Chips
+T0649,Salsa
+T0649,Soda
+T0650,Potato Chips
+T0650,Shampoo
+T0651,Apples
+T0651,Honey
+T0651,Parmesan Cheese
+T0651,Pasta Sauce
+T0651,Potatoes
+T0651,Yogurt
+T0652,Bread
+T0652,Butter
+T0652,Eggs
+T0652,Salt
+T0652,Toothpaste
+T0652,Whole Milk
+T0653,Bread
+T0653,Butter
+T0653,Eggs
+T0653,Whole Milk
+T0654,Bananas
+T0654,Bread
+T0654,Butter
+T0654,Whole Milk
+T0655,Bread
+T0655,Butter
+T0655,Coffee
+T0655,Eggs
+T0655,Soda
+T0655,Strawberry Jam
+T0655,Tea
+T0655,Whole Milk
+T0656,Bread
+T0656,Butter
+T0656,Onions
+T0656,Pasta
+T0656,Tomatoes
+T0656,Whole Milk
+T0657,Bananas
+T0657,Bottled Water
+T0657,Cereal
+T0657,Dish Soap
+T0657,Paper Towels
+T0657,Sponge
+T0657,Whole Milk
+T0658,Basmati Rice
+T0658,Bread
+T0658,Cereal
+T0658,Chicken Breast
+T0658,Coffee
+T0658,Garlic
+T0658,Milk Creamer
+T0658,Onions
+T0658,Spinach
+T0658,Sugar
+T0659,Bananas
+T0659,Basmati Rice
+T0659,Bottled Water
+T0659,Cereal
+T0659,Garlic
+T0660,Bread
+T0660,Cheese
+T0660,Crackers
+T0660,Orange Juice
+T0660,Peanut Butter
+T0660,Strawberry Jam
+T0660,Tomatoes
+T0661,Apples
+T0661,Biscuits
+T0661,Coffee
+T0661,Eggs
+T0661,Milk Creamer
+T0661,Sugar
+T0661,Tea
+T0662,Cucumber
+T0662,Honey
+T0662,Potato Chips
+T0662,Salsa
+T0662,Soda
+T0662,Yogurt
+T0663,Apples
+T0663,Butter
+T0663,Cereal
+T0663,Honey
+T0663,Soap
+T0663,Whole Milk
+T0663,Yogurt
+T0664,Bread
+T0664,Butter
+T0664,Cucumber
+T0664,Noodles
+T0664,Soap
+T0664,Strawberry Jam
+T0664,Whole Milk
+T0665,Cheese
+T0665,Crackers
+T0665,Orange Juice
+T0665,Tea
+T0666,Basmati Rice
+T0666,Burger Buns
+T0666,Chicken Breast
+T0666,Garlic
+T0666,Ground Beef
+T0666,Ketchup
+T0666,Onions
+T0667,Bread
+T0667,Potato Chips
+T0667,Salsa
+T0667,Soda
+T0667,Toothpaste
+T0668,Bread
+T0668,Whole Milk
+T0669,Bananas
+T0669,Cereal
+T0669,Eggs
+T0669,Paper Towels
+T0669,Parmesan Cheese
+T0669,Pasta Sauce
+T0669,Whole Milk
+T0670,Bread
+T0670,Butter
+T0670,Coffee
+T0670,Eggs
+T0670,Milk Creamer
+T0670,Orange Juice
+T0670,Pasta
+T0670,Sugar
+T0670,Whole Milk
+T0671,Apples
+T0671,Conditioner
+T0671,Honey
+T0671,Shampoo
+T0671,Whole Milk
+T0672,Bread
+T0672,Butter
+T0673,Chocolate Syrup
+T0673,Ice Cream
+T0673,Onions
+T0673,Spinach
+T0673,Tomatoes
+T0674,Bread
+T0674,Butter
+T0674,Ice Cream
+T0674,Ketchup
+T0675,Apples
+T0675,Basmati Rice
+T0675,Chicken Breast
+T0675,Garlic
+T0675,Honey
+T0675,Oats
+T0675,Onions
+T0675,Peanut Butter
+T0675,Yogurt
+T0676,Bread
+T0676,Parmesan Cheese
+T0676,Pasta
+T0676,Pasta Sauce
+T0676,Peanut Butter
+T0676,Strawberry Jam
+T0677,Apples
+T0677,Biscuits
+T0677,Carrots
+T0677,Crackers
+T0677,Honey
+T0677,Orange Juice
+T0677,Peanut Butter
+T0677,Yogurt
+T0678,Bread
+T0678,Strawberry Jam
+T0679,Chocolate Syrup
+T0679,Onions
+T0680,Bread
+T0680,Burger Buns
+T0680,Ground Beef
+T0680,Ketchup
+T0681,Bananas
+T0681,Bread
+T0681,Butter
+T0681,Eggs
+T0681,Onions
+T0681,Whole Milk
+T0681,Yogurt
+T0682,Bananas
+T0682,Biscuits
+T0682,Cereal
+T0682,Dish Soap
+T0682,Garlic
+T0682,Paper Towels
+T0682,Sponge
+T0682,Whole Milk
+T0683,Butter
+T0683,Cucumber
+T0683,Onions
+T0683,Soda
+T0683,Spinach
+T0683,Tea
+T0683,Tomatoes
+T0683,Whole Milk
+T0684,Burger Buns
+T0684,Chicken Breast
+T0684,Conditioner
+T0684,Ground Beef
+T0684,Ketchup
+T0684,Sugar
+T0685,Bananas
+T0685,Cereal
+T0685,Potato Chips
+T0685,Tea
+T0685,Whole Milk
+T0686,Cereal
+T0686,Coffee
+T0686,Milk Creamer
+T0686,Noodles
+T0686,Onions
+T0686,Spinach
+T0686,Sugar
+T0686,Tomatoes
+T0686,Toothpaste
+T0687,Biscuits
+T0687,Honey
+T0687,Yogurt
+T0688,Bread
+T0688,Cheese
+T0688,Conditioner
+T0688,Shampoo
+T0688,Whole Milk
+T0689,Bananas
+T0689,Bread
+T0689,Butter
+T0689,Cereal
+T0689,Whole Milk
+T0690,Apples
+T0690,Honey
+T0690,Potato Chips
+T0690,Salsa
+T0690,Soda
+T0690,Yogurt
+T0691,Bread
+T0691,Conditioner
+T0691,Shampoo
+T0691,Whole Milk
+T0692,Carrots
+T0692,Cheese
+T0692,Conditioner
+T0692,Honey
+T0692,Parmesan Cheese
+T0692,Pasta
+T0692,Pasta Sauce
+T0692,Shampoo
+T0693,Dish Soap
+T0693,Paper Towels
+T0693,Sponge
+T0693,Tea
+T0694,Apples
+T0694,Bread
+T0694,Butter
+T0694,Honey
+T0694,Pasta
+T0694,Potatoes
+T0694,Whole Milk
+T0694,Yogurt
+T0695,Bread
+T0695,Eggs
+T0695,Garlic
+T0695,Onions
+T0695,Tomatoes
+T0695,Whole Milk
+T0696,Cheese
+T0696,Orange Juice
+T0696,Potato Chips
+T0696,Potatoes
+T0697,Honey
+T0697,Paper Towels
+T0697,Whole Milk
+T0697,Yogurt
+T0698,Bread
+T0698,Coffee
+T0698,Milk Creamer
+T0698,Sugar
+T0698,Whole Milk
+T0699,Bread
+T0699,Butter
+T0699,Coffee
+T0699,Milk Creamer
+T0699,Potato Chips
+T0699,Potatoes
+T0699,Sugar
+T0699,Whole Milk
+T0700,Bread
+T0700,Butter
+T0700,Garlic
+T0700,Parmesan Cheese
+T0700,Pasta
+T0700,Pasta Sauce
+T0700,Strawberry Jam
+T0700,Tea
+T0701,Chicken Breast
+T0701,Onions
+T0701,Spinach
+T0702,Apples
+T0702,Honey
+T0703,Carrots
+T0703,Oats
+T0703,Parmesan Cheese
+T0703,Pasta Sauce
+T0704,Bread
+T0704,Butter
+T0704,Eggs
+T0704,Whole Milk
+T0705,Bananas
+T0705,Bread
+T0705,Butter
+T0705,Sugar
+T0705,Whole Milk
+T0706,Bread
+T0706,Cheese
+T0706,Crackers
+T0706,Orange Juice
+T0706,Strawberry Jam
+T0707,Bread
+T0707,Cheese
+T0707,Orange Juice
+T0707,Peanut Butter
+T0707,Strawberry Jam
+T0708,Bread
+T0708,Butter
+T0708,Carrots
+T0708,Cheese
+T0708,Olive Oil
+T0708,Whole Milk
+T0709,Onions
+T0709,Parmesan Cheese
+T0709,Pasta
+T0709,Pasta Sauce
+T0709,Spinach
+T0709,Tomatoes
+T0710,Dish Soap
+T0710,Ice Cream
+T0710,Pasta
+T0710,Pasta Sauce
+T0710,Peanut Butter
+T0711,Burger Buns
+T0711,Ground Beef
+T0711,Honey
+T0711,Ketchup
+T0712,Butter
+T0712,Ice Cream
+T0712,Parmesan Cheese
+T0712,Pasta
+T0712,Pasta Sauce
+T0712,Strawberry Jam
+T0712,Tomatoes
+T0713,Bananas
+T0713,Biscuits
+T0713,Bread
+T0713,Peanut Butter
+T0713,Strawberry Jam
+T0714,Chocolate Syrup
+T0714,Ice Cream
+T0714,Onions
+T0714,Potatoes
+T0714,Spinach
+T0714,Tomatoes
+T0715,Bananas
+T0715,Cereal
+T0715,Potato Chips
+T0715,Salsa
+T0715,Soda
+T0715,Sugar
+T0715,Whole Milk
+T0716,Bananas
+T0716,Cereal
+T0716,Honey
+T0716,Salt
+T0716,Tea
+T0717,Bananas
+T0717,Carrots
+T0717,Chicken Breast
+T0717,Conditioner
+T0717,Garlic
+T0717,Shampoo
+T0718,Bananas
+T0718,Bread
+T0718,Butter
+T0718,Cereal
+T0718,Strawberry Jam
+T0718,Whole Milk
+T0719,Bread
+T0719,Peanut Butter
+T0719,Strawberry Jam
+T0720,Basmati Rice
+T0720,Bread
+T0720,Burger Buns
+T0720,Butter
+T0720,Ground Beef
+T0720,Ketchup
+T0721,Butter
+T0721,Potato Chips
+T0721,Soda
+T0722,Bread
+T0722,Coffee
+T0722,Olive Oil
+T0722,Strawberry Jam
+T0723,Onions
+T0723,Strawberry Jam
+T0724,Bread
+T0724,Cereal
+T0724,Dish Soap
+T0724,Eggs
+T0724,Ketchup
+T0724,Paper Towels
+T0724,Sponge
+T0724,Whole Milk
+T0725,Bread
+T0725,Butter
+T0725,Parmesan Cheese
+T0725,Pasta
+T0725,Pasta Sauce
+T0725,Whole Milk
+T0726,Bread
+T0726,Butter
+T0726,Whole Milk
+T0727,Chicken Breast
+T0727,Noodles
+T0727,Parmesan Cheese
+T0727,Pasta
+T0727,Pasta Sauce
+T0727,Potato Chips
+T0727,Salsa
+T0727,Soda
+T0728,Bananas
+T0728,Bread
+T0728,Butter
+T0728,Cereal
+T0729,Bread
+T0729,Butter
+T0729,Yogurt
+T0730,Basmati Rice
+T0730,Bread
+T0730,Chicken Breast
+T0730,Garlic
+T0730,Whole Milk
+T0731,Apples
+T0731,Basmati Rice
+T0731,Chicken Breast
+T0731,Honey
+T0731,Ketchup
+T0731,Onions
+T0731,Potato Chips
+T0732,Orange Juice
+T0732,Parmesan Cheese
+T0732,Pasta
+T0733,Bread
+T0733,Burger Buns
+T0733,Butter
+T0733,Chicken Breast
+T0733,Ground Beef
+T0733,Ketchup
+T0733,Peanut Butter
+T0733,Sugar
+T0733,Whole Milk
+T0734,Apples
+T0734,Honey
+T0734,Parmesan Cheese
+T0734,Pasta
+T0734,Pasta Sauce
+T0734,Yogurt
+T0735,Basmati Rice
+T0735,Bread
+T0735,Chicken Breast
+T0735,Eggs
+T0735,Garlic
+T0735,Onions
+T0735,Whole Milk
+T0736,Bread
+T0736,Butter
+T0736,Eggs
+T0736,Potatoes
+T0736,Whole Milk
+T0737,Basmati Rice
+T0737,Biscuits
+T0737,Coffee
+T0737,Olive Oil
+T0737,Tea
+T0738,Basmati Rice
+T0738,Bread
+T0738,Butter
+T0738,Ketchup
+T0738,Spinach
+T0738,Tomatoes
+T0738,Whole Milk
+T0739,Honey
+T0739,Oats
+T0739,Orange Juice
+T0739,Potato Chips
+T0739,Salsa
+T0739,Shampoo
+T0739,Soda
+T0740,Bread
+T0740,Butter
+T0740,Cucumber
+T0740,Potato Chips
+T0740,Salsa
+T0740,Salt
+T0740,Soda
+T0740,Whole Milk
+T0741,Biscuits
+T0741,Cereal
+T0741,Dish Soap
+T0741,Paper Towels
+T0741,Sponge
+T0742,Onions
+T0742,Soda
+T0742,Spinach
+T0742,Tomatoes
+T0743,Bananas
+T0743,Basmati Rice
+T0743,Bread
+T0743,Butter
+T0743,Carrots
+T0743,Coffee
+T0743,Milk Creamer
+T0743,Sugar
+T0743,Whole Milk
+T0744,Bananas
+T0744,Bread
+T0744,Parmesan Cheese
+T0744,Pasta
+T0744,Pasta Sauce
+T0744,Whole Milk
+T0745,Biscuits
+T0745,Orange Juice
+T0745,Pasta
+T0745,Potato Chips
+T0745,Tea
+T0746,Apples
+T0746,Butter
+T0746,Shampoo
+T0746,Strawberry Jam
+T0747,Biscuits
+T0747,Bread
+T0747,Coffee
+T0747,Peanut Butter
+T0747,Strawberry Jam
+T0747,Tea
+T0748,Bread
+T0748,Butter
+T0748,Chicken Breast
+T0748,Parmesan Cheese
+T0748,Pasta
+T0748,Pasta Sauce
+T0748,Salt
+T0748,Soda
+T0749,Cereal
+T0749,Parmesan Cheese
+T0749,Pasta
+T0749,Pasta Sauce
+T0749,Whole Milk
+T0750,Bread
+T0750,Butter
+T0750,Parmesan Cheese
+T0750,Pasta
+T0750,Pasta Sauce
+T0750,Potato Chips
+T0750,Whole Milk
